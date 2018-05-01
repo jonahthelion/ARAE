@@ -343,9 +343,10 @@ def evaluate_autoencoder(whichdecoder, data_source, epoch):
         total_loss += criterion_ce(masked_output/args.temp, masked_target).data
         bcnt += 1
 
-        aeoutf_from = "%s/%d_output_decoder_%d_from.txt"%(args.outf, epoch, whichdecoder)
-        aeoutf_tran = "%s/%d_output_decoder_%d_tran.txt"%(args.outf, epoch, whichdecoder)
-        with open(aeoutf_from, 'w') as f_from, open(aeoutf_tran,'w') as f_trans:
+        aeoutf_targ = "%s/%d_output_decoder_%d_targ.txt"%(args.outf, epoch, whichdecoder)
+        aeoutf_one = "%s/%d_output_decoder_%d_one.txt"%(args.outf, epoch, whichdecoder)
+        aeoutf_two = "%s/%d_output_decoder_%d_two.txt"%(args.outf, epoch, whichdecoder)
+        with open(aeoutf_targ, 'w') as f_targ, open(aeoutf_one,'w') as f_one, open(aeoutf_two,'w') as f_two:
             max_indices1 = \
                 max_indices1.view(output.size(0), -1).data.cpu().numpy()
             max_indices2 = \
@@ -354,12 +355,13 @@ def evaluate_autoencoder(whichdecoder, data_source, epoch):
             for t, idx1, idx2 in zip(target, max_indices1, max_indices2):
                 # real sentence
                 chars = " ".join([corpus.dictionary.idx2word[x] for x in t])
-                f_from.write(chars)
-                f_from.write("\n")
+                f_targ.write(chars + "\n")
+                # transfer sentence
+                chars = " ".join([corpus.dictionary.idx2word[x] for x in idx1])
+                f_one.write(chars + "\n")
                 # transfer sentence
                 chars = " ".join([corpus.dictionary.idx2word[x] for x in idx2])
-                f_trans.write(chars)
-                f_trans.write("\n\n")
+                f_two.write(chars + "\n")
 
     return total_loss[0] / len(data_source), all_accuracies/bcnt
 
