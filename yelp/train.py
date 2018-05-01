@@ -343,9 +343,8 @@ def evaluate_autoencoder(whichdecoder, data_source, epoch):
         total_loss += criterion_ce(masked_output/args.temp, masked_target).data
         bcnt += 1
 
-        aeoutf_from = "%s/%d_output_decoder_%d_from.txt".format(args.outf, epoch, whichdecoder)
-        aeoutf_tran = "%s/%d_output_decoder_%d_tran.txt".format(args.outf, epoch, whichdecoder)
-        print(aeoutf_from, aeoutf_tran)
+        aeoutf_from = "%s/%d_output_decoder_%d_from.txt"%(args.outf, epoch, whichdecoder)
+        aeoutf_tran = "%s/%d_output_decoder_%d_tran.txt"%(args.outf, epoch, whichdecoder)
         with open(aeoutf_from, 'w') as f_from, open(aeoutf_tran,'w') as f_trans:
             max_indices1 = \
                 max_indices1.view(output.size(0), -1).data.cpu().numpy()
