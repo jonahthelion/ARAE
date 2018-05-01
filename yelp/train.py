@@ -345,6 +345,7 @@ def evaluate_autoencoder(whichdecoder, data_source, epoch):
 
         aeoutf_from = "%s/%d_output_decoder_%d_from.txt".format(args.outf, epoch, whichdecoder)
         aeoutf_tran = "%s/%d_output_decoder_%d_tran.txt".format(args.outf, epoch, whichdecoder)
+        print(aeoutf_from, aeoutf_tran)
         with open(aeoutf_from, 'w') as f_from, open(aeoutf_tran,'w') as f_trans:
             max_indices1 = \
                 max_indices1.view(output.size(0), -1).data.cpu().numpy()
@@ -525,6 +526,8 @@ fixed_noise = to_gpu(args.cuda,
 fixed_noise.data.normal_(0, 1)
 one = to_gpu(args.cuda, torch.FloatTensor([1]))
 mone = one * -1
+
+evaluate_autoencoder(1, test1_data[:1000], epoch)
 
 for epoch in range(1, args.epochs+1):
     # update gan training schedule
