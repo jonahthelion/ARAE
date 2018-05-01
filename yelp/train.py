@@ -527,8 +527,6 @@ fixed_noise.data.normal_(0, 1)
 one = to_gpu(args.cuda, torch.FloatTensor([1]))
 mone = one * -1
 
-evaluate_autoencoder(1, test1_data[:1000], epoch)
-
 for epoch in range(1, args.epochs+1):
     # update gan training schedule
     if epoch in gan_schedule:
@@ -548,6 +546,7 @@ for epoch in range(1, args.epochs+1):
 
     # loop through all batches in training data
     while niter < len(train1_data) and niter < len(train2_data):
+        evaluate_autoencoder(1, test1_data[:1000], epoch)
 
         # train autoencoder ----------------------------
         for i in range(args.niters_ae):
