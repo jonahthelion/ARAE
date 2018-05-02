@@ -295,7 +295,7 @@ def classifier_regularize(whichclass, batch):
     return classify_reg_loss
 
 
-def evaluate_autoencoder(whichdecoder, data_source, epoch):
+def evaluate_autoencoder(whichdecoder, data_source, epoch, seper=""):
     # Turn on evaluation mode which disables dropout.
     autoencoder.eval()
     total_loss = 0
@@ -343,9 +343,9 @@ def evaluate_autoencoder(whichdecoder, data_source, epoch):
         total_loss += criterion_ce(masked_output/args.temp, masked_target).data
         bcnt += 1
 
-        aeoutf_targ = "%s/%d_output_decoder_%d_targ.txt"%(args.outf, epoch, whichdecoder)
-        aeoutf_one = "%s/%d_output_decoder_%d_one.txt"%(args.outf, epoch, whichdecoder)
-        aeoutf_two = "%s/%d_output_decoder_%d_two.txt"%(args.outf, epoch, whichdecoder)
+        aeoutf_targ = "%s/%d_output_decoder_%d_targ%s.txt"%(args.outf, epoch, whichdecoder, seper)
+        aeoutf_one = "%s/%d_output_decoder_%d_one%s.txt"%(args.outf, epoch, whichdecoder, seper)
+        aeoutf_two = "%s/%d_output_decoder_%d_two%s.txt"%(args.outf, epoch, whichdecoder, seper)
         with open(aeoutf_targ, 'w') as f_targ, open(aeoutf_one,'w') as f_one, open(aeoutf_two,'w') as f_two:
             max_indices1 = \
                 max_indices1.view(output.size(0), -1).data.cpu().numpy()
@@ -617,6 +617,10 @@ for epoch in range(1, args.epochs+1):
             # exponentially decaying noise on autoencoder
             autoencoder.noise_radius = \
                 autoencoder.noise_radius*args.noise_anneal
+
+        if niter % 5000 == 0:
+            evaluate_autoencoder(1, test1_data[:1000], epoch, str(niter))
+            evaluate_autoencoder(2, test2_data[:1000], epoch, str(niter))
 
 
     # end of epoch ----------------------------
