@@ -775,3 +775,335 @@ Classify loss:  0.70 | Classify accuracy: 0.195
 | epoch  18 |   800/ 1541 batches | ms/batch  1.16 | loss  2.17 | ppl     8.72 | acc     0.60
 [18/25][899/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
 Classify loss:  0.70 | Classify accuracy: 0.195
+[18/25][999/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch  18 |  1000/ 1541 batches | ms/batch 1254.88 | loss  2.51 | ppl    12.26 | acc     0.58
+| epoch  18 |  1000/ 1541 batches | ms/batch  1.14 | loss  2.15 | ppl     8.58 | acc     0.62
+[18/25][1099/1541] Loss_D: 0.0023 (Loss_D_real: -0.0020 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.133
+[18/25][1199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.70 | Classify accuracy: 0.188
+| epoch  18 |  1200/ 1541 batches | ms/batch 1249.50 | loss  2.52 | ppl    12.42 | acc     0.63
+| epoch  18 |  1200/ 1541 batches | ms/batch  1.08 | loss  2.14 | ppl     8.48 | acc     0.58
+[18/25][1299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.078
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 1672.93s | test loss  2.28 | test ppl  9.81 | acc 0.649
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 1677.10s | test loss  2.10 | test ppl  8.18 | acc 0.602
+-----------------------------------------------------------------------------------------
+[19/25][99/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.203
+[19/25][199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch  19 |   200/ 1541 batches | ms/batch 1248.77 | loss  2.48 | ppl    11.95 | acc     0.61
+| epoch  19 |   200/ 1541 batches | ms/batch  1.23 | loss  2.09 | ppl     8.08 | acc     0.61
+[19/25][299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.102
+[19/25][399/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.133
+| epoch  19 |   400/ 1541 batches | ms/batch 1247.80 | loss  2.45 | ppl    11.56 | acc     0.58
+| epoch  19 |   400/ 1541 batches | ms/batch  1.07 | loss  2.07 | ppl     7.92 | acc     0.62
+[19/25][499/1541] Loss_D: 0.0020 (Loss_D_real: -0.0016 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.141
+[19/25][599/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.164
+| epoch  19 |   600/ 1541 batches | ms/batch 1255.97 | loss  2.44 | ppl    11.50 | acc     0.62
+| epoch  19 |   600/ 1541 batches | ms/batch  1.07 | loss  2.08 | ppl     8.02 | acc     0.58
+[19/25][699/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.117
+[19/25][799/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.164
+| epoch  19 |   800/ 1541 batches | ms/batch 1255.24 | loss  2.44 | ppl    11.49 | acc     0.57
+| epoch  19 |   800/ 1541 batches | ms/batch  1.14 | loss  2.07 | ppl     7.89 | acc     0.63
+[19/25][899/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.125
+[19/25][999/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch  19 |  1000/ 1541 batches | ms/batch 1245.60 | loss  2.42 | ppl    11.22 | acc     0.61
+| epoch  19 |  1000/ 1541 batches | ms/batch  1.19 | loss  2.05 | ppl     7.74 | acc     0.60
+[19/25][1099/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.109
+[19/25][1199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.203
+| epoch  19 |  1200/ 1541 batches | ms/batch 1257.51 | loss  2.42 | ppl    11.23 | acc     0.59
+| epoch  19 |  1200/ 1541 batches | ms/batch  1.05 | loss  2.05 | ppl     7.73 | acc     0.59
+[19/25][1299/1541] Loss_D: 0.0024 (Loss_D_real: -0.0019 Loss_D_fake: 0.0005) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.109
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 1668.17s | test loss  2.23 | test ppl  9.32 | acc 0.657
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 1672.30s | test loss  1.92 | test ppl  6.83 | acc 0.637
+-----------------------------------------------------------------------------------------
+[20/25][99/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0003) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.156
+[20/25][199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.164
+| epoch  20 |   200/ 1541 batches | ms/batch 1254.88 | loss  2.39 | ppl    10.92 | acc     0.62
+| epoch  20 |   200/ 1541 batches | ms/batch  1.26 | loss  2.00 | ppl     7.37 | acc     0.59
+[20/25][299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0020 Loss_D_fake: 0.0001) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.039
+[20/25][399/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.148
+| epoch  20 |   400/ 1541 batches | ms/batch 1255.90 | loss  2.36 | ppl    10.59 | acc     0.63
+| epoch  20 |   400/ 1541 batches | ms/batch  1.06 | loss  1.99 | ppl     7.30 | acc     0.64
+[20/25][499/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.102
+[20/25][599/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.172
+| epoch  20 |   600/ 1541 batches | ms/batch 1250.91 | loss  2.37 | ppl    10.74 | acc     0.59
+| epoch  20 |   600/ 1541 batches | ms/batch  1.09 | loss  1.99 | ppl     7.35 | acc     0.62
+[20/25][699/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.148
+[20/25][799/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch  20 |   800/ 1541 batches | ms/batch 1250.66 | loss  2.36 | ppl    10.64 | acc     0.60
+| epoch  20 |   800/ 1541 batches | ms/batch  1.19 | loss  1.96 | ppl     7.13 | acc     0.65
+[20/25][899/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+[20/25][999/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch  20 |  1000/ 1541 batches | ms/batch 1249.88 | loss  2.36 | ppl    10.54 | acc     0.61
+| epoch  20 |  1000/ 1541 batches | ms/batch  1.08 | loss  1.96 | ppl     7.08 | acc     0.62
+[20/25][1099/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+[20/25][1199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.133
+| epoch  20 |  1200/ 1541 batches | ms/batch 1249.01 | loss  2.33 | ppl    10.25 | acc     0.63
+| epoch  20 |  1200/ 1541 batches | ms/batch  1.31 | loss  1.95 | ppl     7.02 | acc     0.58
+[20/25][1299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.188
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 1668.36s | test loss  2.18 | test ppl  8.84 | acc 0.663
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 1672.50s | test loss  1.89 | test ppl  6.62 | acc 0.638
+-----------------------------------------------------------------------------------------
+[21/25][99/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.172
+[21/25][199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.172
+| epoch  21 |   200/ 1541 batches | ms/batch 1256.18 | loss  2.30 | ppl     9.99 | acc     0.64
+| epoch  21 |   200/ 1541 batches | ms/batch  1.07 | loss  1.91 | ppl     6.77 | acc     0.64
+[21/25][299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.117
+[21/25][399/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.195
+| epoch  21 |   400/ 1541 batches | ms/batch 1246.67 | loss  2.28 | ppl     9.80 | acc     0.64
+| epoch  21 |   400/ 1541 batches | ms/batch  1.06 | loss  1.90 | ppl     6.67 | acc     0.59
+[21/25][499/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.195
+[21/25][599/1541] Loss_D: 0.0020 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.141
+| epoch  21 |   600/ 1541 batches | ms/batch 1252.54 | loss  2.29 | ppl     9.84 | acc     0.63
+| epoch  21 |   600/ 1541 batches | ms/batch  1.10 | loss  1.91 | ppl     6.74 | acc     0.61
+[21/25][699/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.133
+[21/25][799/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.156
+| epoch  21 |   800/ 1541 batches | ms/batch 1250.99 | loss  2.28 | ppl     9.82 | acc     0.60
+| epoch  21 |   800/ 1541 batches | ms/batch  1.29 | loss  1.88 | ppl     6.53 | acc     0.63
+[21/25][899/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.141
+[21/25][999/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.188
+| epoch  21 |  1000/ 1541 batches | ms/batch 1261.17 | loss  2.26 | ppl     9.63 | acc     0.68
+| epoch  21 |  1000/ 1541 batches | ms/batch  1.08 | loss  1.86 | ppl     6.42 | acc     0.64
+[21/25][1099/1541] Loss_D: 0.0021 (Loss_D_real: -0.0021 Loss_D_fake: 0.0000) Loss_G: 0.0001
+Classify loss:  0.71 | Classify accuracy: 0.078
+[21/25][1199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.70 | Classify accuracy: 0.109
+| epoch  21 |  1200/ 1541 batches | ms/batch 1253.20 | loss  2.26 | ppl     9.57 | acc     0.62
+| epoch  21 |  1200/ 1541 batches | ms/batch  1.18 | loss  1.86 | ppl     6.40 | acc     0.63
+[21/25][1299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 1669.39s | test loss  2.09 | test ppl  8.05 | acc 0.680
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 1673.53s | test loss  1.74 | test ppl  5.71 | acc 0.662
+-----------------------------------------------------------------------------------------
+[22/25][99/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.070
+[22/25][199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch  22 |   200/ 1541 batches | ms/batch 1259.25 | loss  2.20 | ppl     9.02 | acc     0.63
+| epoch  22 |   200/ 1541 batches | ms/batch  1.14 | loss  1.81 | ppl     6.09 | acc     0.60
+[22/25][299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.133
+[22/25][399/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.141
+| epoch  22 |   400/ 1541 batches | ms/batch 1248.93 | loss  2.20 | ppl     8.99 | acc     0.61
+| epoch  22 |   400/ 1541 batches | ms/batch  1.00 | loss  1.80 | ppl     6.06 | acc     0.67
+[22/25][499/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.141
+[22/25][599/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch  22 |   600/ 1541 batches | ms/batch 1247.35 | loss  2.21 | ppl     9.11 | acc     0.60
+| epoch  22 |   600/ 1541 batches | ms/batch  1.12 | loss  1.79 | ppl     6.01 | acc     0.64
+[22/25][699/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.125
+[22/25][799/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch  22 |   800/ 1541 batches | ms/batch 1246.98 | loss  2.20 | ppl     9.03 | acc     0.65
+| epoch  22 |   800/ 1541 batches | ms/batch  1.11 | loss  1.78 | ppl     5.96 | acc     0.66
+[22/25][899/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.203
+[22/25][999/1541] Loss_D: 0.0021 (Loss_D_real: -0.0020 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.70 | Classify accuracy: 0.141
+| epoch  22 |  1000/ 1541 batches | ms/batch 1247.87 | loss  2.19 | ppl     8.91 | acc     0.65
+| epoch  22 |  1000/ 1541 batches | ms/batch  1.08 | loss  1.79 | ppl     5.97 | acc     0.70
+[22/25][1099/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.70 | Classify accuracy: 0.133
+[22/25][1199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.70 | Classify accuracy: 0.156
+| epoch  22 |  1200/ 1541 batches | ms/batch 1256.61 | loss  2.18 | ppl     8.83 | acc     0.63
+| epoch  22 |  1200/ 1541 batches | ms/batch  1.03 | loss  1.78 | ppl     5.93 | acc     0.65
+[22/25][1299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.109
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 1667.79s | test loss  2.01 | test ppl  7.44 | acc 0.693
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 1671.86s | test loss  1.66 | test ppl  5.24 | acc 0.685
+-----------------------------------------------------------------------------------------
+[23/25][99/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.156
+[23/25][199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.141
+| epoch  23 |   200/ 1541 batches | ms/batch 1254.54 | loss  2.13 | ppl     8.41 | acc     0.64
+| epoch  23 |   200/ 1541 batches | ms/batch  1.14 | loss  1.71 | ppl     5.53 | acc     0.61
+[23/25][299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.156
+[23/25][399/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.156
+| epoch  23 |   400/ 1541 batches | ms/batch 1247.53 | loss  2.11 | ppl     8.26 | acc     0.62
+| epoch  23 |   400/ 1541 batches | ms/batch  1.14 | loss  1.71 | ppl     5.51 | acc     0.65
+[23/25][499/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.133
+[23/25][599/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch  23 |   600/ 1541 batches | ms/batch 1256.54 | loss  2.10 | ppl     8.19 | acc     0.68
+| epoch  23 |   600/ 1541 batches | ms/batch  1.01 | loss  1.71 | ppl     5.52 | acc     0.66
+[23/25][699/1541] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.094
+[23/25][799/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch  23 |   800/ 1541 batches | ms/batch 1253.20 | loss  2.11 | ppl     8.28 | acc     0.67
+| epoch  23 |   800/ 1541 batches | ms/batch  1.08 | loss  1.70 | ppl     5.46 | acc     0.65
+[23/25][899/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.70 | Classify accuracy: 0.172
+[23/25][999/1541] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch  23 |  1000/ 1541 batches | ms/batch 1252.98 | loss  2.11 | ppl     8.28 | acc     0.69
+| epoch  23 |  1000/ 1541 batches | ms/batch  1.19 | loss  1.72 | ppl     5.57 | acc     0.68
+[23/25][1099/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.086
+[23/25][1199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.172
+| epoch  23 |  1200/ 1541 batches | ms/batch 1254.02 | loss  2.11 | ppl     8.22 | acc     0.63
+| epoch  23 |  1200/ 1541 batches | ms/batch  1.05 | loss  1.68 | ppl     5.36 | acc     0.70
+[23/25][1299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.141
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 1669.56s | test loss  1.97 | test ppl  7.19 | acc 0.699
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 1673.72s | test loss  1.61 | test ppl  4.98 | acc 0.688
+-----------------------------------------------------------------------------------------
+[24/25][99/1541] Loss_D: 0.0021 (Loss_D_real: -0.0020 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.70 | Classify accuracy: 0.125
+[24/25][199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch  24 |   200/ 1541 batches | ms/batch 1257.76 | loss  2.06 | ppl     7.88 | acc     0.64
+| epoch  24 |   200/ 1541 batches | ms/batch  1.17 | loss  1.64 | ppl     5.18 | acc     0.66
+[24/25][299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.117
+[24/25][399/1541] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch  24 |   400/ 1541 batches | ms/batch 1256.15 | loss  2.06 | ppl     7.83 | acc     0.62
+| epoch  24 |   400/ 1541 batches | ms/batch  1.13 | loss  1.63 | ppl     5.12 | acc     0.64
+[24/25][499/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.148
+[24/25][599/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.117
+| epoch  24 |   600/ 1541 batches | ms/batch 1253.20 | loss  2.04 | ppl     7.67 | acc     0.66
+| epoch  24 |   600/ 1541 batches | ms/batch  1.08 | loss  1.63 | ppl     5.09 | acc     0.64
+[24/25][699/1541] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.117
+[24/25][799/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.133
+| epoch  24 |   800/ 1541 batches | ms/batch 1251.24 | loss  2.03 | ppl     7.65 | acc     0.68
+| epoch  24 |   800/ 1541 batches | ms/batch  1.20 | loss  1.61 | ppl     5.02 | acc     0.66
+[24/25][899/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.117
+[24/25][999/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch  24 |  1000/ 1541 batches | ms/batch 1253.96 | loss  2.01 | ppl     7.48 | acc     0.65
+| epoch  24 |  1000/ 1541 batches | ms/batch  1.13 | loss  1.63 | ppl     5.11 | acc     0.64
+[24/25][1099/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.117
+[24/25][1199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.203
+| epoch  24 |  1200/ 1541 batches | ms/batch 1251.71 | loss  2.03 | ppl     7.64 | acc     0.70
+| epoch  24 |  1200/ 1541 batches | ms/batch  1.20 | loss  1.61 | ppl     4.99 | acc     0.66
+[24/25][1299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.188
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 1670.47s | test loss  1.90 | test ppl  6.69 | acc 0.710
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 1674.54s | test loss  1.53 | test ppl  4.63 | acc 0.698
+-----------------------------------------------------------------------------------------
+[25/25][99/1541] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.203
+[25/25][199/1541] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.117
+| epoch  25 |   200/ 1541 batches | ms/batch 1252.92 | loss  1.98 | ppl     7.24 | acc     0.67
+| epoch  25 |   200/ 1541 batches | ms/batch  1.08 | loss  1.57 | ppl     4.79 | acc     0.70
+[25/25][299/1541] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.148
+[25/25][399/1541] Loss_D: 0.0019 (Loss_D_real: -0.0014 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.164
+| epoch  25 |   400/ 1541 batches | ms/batch 1240.17 | loss  1.98 | ppl     7.26 | acc     0.67
+| epoch  25 |   400/ 1541 batches | ms/batch  1.45 | loss  1.56 | ppl     4.76 | acc     0.68
+[25/25][499/1541] Loss_D: 0.0018 (Loss_D_real: -0.0012 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.156
+[25/25][599/1541] Loss_D: 0.0027 (Loss_D_real: -0.0018 Loss_D_fake: 0.0009) Loss_G: 0.0011
+Classify loss:  0.71 | Classify accuracy: 0.133
+| epoch  25 |   600/ 1541 batches | ms/batch 1249.93 | loss  1.98 | ppl     7.24 | acc     0.65
+| epoch  25 |   600/ 1541 batches | ms/batch  1.13 | loss  1.56 | ppl     4.75 | acc     0.68
+[25/25][699/1541] Loss_D: 0.0029 (Loss_D_real: -0.0018 Loss_D_fake: 0.0011) Loss_G: 0.0011
+Classify loss:  0.71 | Classify accuracy: 0.148
+[25/25][799/1541] Loss_D: 0.0027 (Loss_D_real: -0.0018 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch  25 |   800/ 1541 batches | ms/batch 1242.48 | loss  1.96 | ppl     7.10 | acc     0.68
+| epoch  25 |   800/ 1541 batches | ms/batch  1.11 | loss  1.53 | ppl     4.64 | acc     0.66
+[25/25][899/1541] Loss_D: 0.0029 (Loss_D_real: -0.0018 Loss_D_fake: 0.0010) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.062
+[25/25][999/1541] Loss_D: 0.0027 (Loss_D_real: -0.0018 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.156
+| epoch  25 |  1000/ 1541 batches | ms/batch 1249.13 | loss  1.97 | ppl     7.21 | acc     0.67
+| epoch  25 |  1000/ 1541 batches | ms/batch  1.07 | loss  1.55 | ppl     4.70 | acc     0.65
+[25/25][1099/1541] Loss_D: 0.0025 (Loss_D_real: -0.0019 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.180
+[25/25][1199/1541] Loss_D: 0.0026 (Loss_D_real: -0.0018 Loss_D_fake: 0.0008) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.141
+| epoch  25 |  1200/ 1541 batches | ms/batch 1250.39 | loss  1.97 | ppl     7.14 | acc     0.66
+| epoch  25 |  1200/ 1541 batches | ms/batch  1.07 | loss  1.54 | ppl     4.66 | acc     0.69
+[25/25][1299/1541] Loss_D: 0.0026 (Loss_D_real: -0.0019 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.125
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 1662.47s | test loss  1.91 | test ppl  6.73 | acc 0.702
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 1666.61s | test loss  1.52 | test ppl  4.58 | acc 0.705
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 1672.75s | test loss  1.91 | test ppl  6.73 | acc 0.702
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 1676.88s | test loss  1.52 | test ppl  4.58 | acc 0.705
+-----------------------------------------------------------------------------------------
