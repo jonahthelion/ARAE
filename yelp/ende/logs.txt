@@ -2083,3 +2083,1781 @@ Classify loss:  0.70 | Classify accuracy: 0.141
 Classify loss:  0.70 | Classify accuracy: 0.125
 | epoch   2 | 29000/40285 batches | ms/batch 1571.89 | loss  0.97 | ppl     2.64 | acc     0.81
 | epoch   2 | 29000/40285 batches | ms/batch  1.41 | loss  1.12 | ppl     3.07 | acc     0.81
+[2/25][29099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.125
+[2/25][29199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.156
+| epoch   2 | 29200/40285 batches | ms/batch 1576.64 | loss  0.98 | ppl     2.67 | acc     0.82
+| epoch   2 | 29200/40285 batches | ms/batch  1.39 | loss  1.12 | ppl     3.05 | acc     0.80
+[2/25][29299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.141
+[2/25][29399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   2 | 29400/40285 batches | ms/batch 1578.65 | loss  0.97 | ppl     2.64 | acc     0.82
+| epoch   2 | 29400/40285 batches | ms/batch  1.16 | loss  1.13 | ppl     3.11 | acc     0.78
+[2/25][29499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.047
+[2/25][29599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   2 | 29600/40285 batches | ms/batch 1580.08 | loss  0.97 | ppl     2.64 | acc     0.82
+| epoch   2 | 29600/40285 batches | ms/batch  1.22 | loss  1.11 | ppl     3.04 | acc     0.82
+[2/25][29699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.156
+[2/25][29799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   2 | 29800/40285 batches | ms/batch 1571.32 | loss  0.96 | ppl     2.62 | acc     0.85
+| epoch   2 | 29800/40285 batches | ms/batch  1.28 | loss  1.11 | ppl     3.02 | acc     0.81
+[2/25][29899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0021 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.70 | Classify accuracy: 0.094
+[2/25][29999/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   2 | 30000/40285 batches | ms/batch 1683.10 | loss  0.95 | ppl     2.58 | acc     0.83
+| epoch   2 | 30000/40285 batches | ms/batch  1.12 | loss  1.10 | ppl     3.00 | acc     0.82
+[2/25][30099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.102
+[2/25][30199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.141
+| epoch   2 | 30200/40285 batches | ms/batch 1557.66 | loss  0.96 | ppl     2.61 | acc     0.79
+| epoch   2 | 30200/40285 batches | ms/batch  1.15 | loss  1.10 | ppl     2.99 | acc     0.80
+[2/25][30299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.078
+[2/25][30399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   2 | 30400/40285 batches | ms/batch 1546.97 | loss  0.95 | ppl     2.58 | acc     0.85
+| epoch   2 | 30400/40285 batches | ms/batch  1.13 | loss  1.08 | ppl     2.96 | acc     0.82
+[2/25][30499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0013 Loss_D_fake: 0.0009) Loss_G: 0.0008
+Classify loss:  0.70 | Classify accuracy: 0.109
+[2/25][30599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   2 | 30600/40285 batches | ms/batch 1548.56 | loss  0.94 | ppl     2.57 | acc     0.81
+| epoch   2 | 30600/40285 batches | ms/batch  1.09 | loss  1.08 | ppl     2.96 | acc     0.81
+[2/25][30699/40285] Loss_D: 0.0017 (Loss_D_real: -0.0012 Loss_D_fake: 0.0005) Loss_G: 0.0009
+Classify loss:  0.70 | Classify accuracy: 0.102
+[2/25][30799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   2 | 30800/40285 batches | ms/batch 1552.44 | loss  0.94 | ppl     2.57 | acc     0.83
+| epoch   2 | 30800/40285 batches | ms/batch  1.09 | loss  1.08 | ppl     2.96 | acc     0.81
+[2/25][30899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.062
+[2/25][30999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.109
+| epoch   2 | 31000/40285 batches | ms/batch 1567.03 | loss  0.92 | ppl     2.51 | acc     0.84
+| epoch   2 | 31000/40285 batches | ms/batch  1.44 | loss  1.08 | ppl     2.94 | acc     0.81
+[2/25][31099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.148
+[2/25][31199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   2 | 31200/40285 batches | ms/batch 1572.60 | loss  0.93 | ppl     2.54 | acc     0.82
+| epoch   2 | 31200/40285 batches | ms/batch  1.07 | loss  1.07 | ppl     2.93 | acc     0.81
+[2/25][31299/40285] Loss_D: 0.0027 (Loss_D_real: -0.0019 Loss_D_fake: 0.0008) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.109
+[2/25][31399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   2 | 31400/40285 batches | ms/batch 1571.29 | loss  0.93 | ppl     2.54 | acc     0.84
+| epoch   2 | 31400/40285 batches | ms/batch  1.08 | loss  1.08 | ppl     2.93 | acc     0.82
+[2/25][31499/40285] Loss_D: 0.0019 (Loss_D_real: -0.0013 Loss_D_fake: 0.0006) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.094
+[2/25][31599/40285] Loss_D: 0.0023 (Loss_D_real: -0.0018 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.109
+| epoch   2 | 31600/40285 batches | ms/batch 1574.14 | loss  0.92 | ppl     2.52 | acc     0.80
+| epoch   2 | 31600/40285 batches | ms/batch  1.36 | loss  1.06 | ppl     2.88 | acc     0.82
+[2/25][31699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0001
+Classify loss:  0.70 | Classify accuracy: 0.148
+[2/25][31799/40285] Loss_D: 0.0019 (Loss_D_real: -0.0014 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.102
+| epoch   2 | 31800/40285 batches | ms/batch 1564.38 | loss  0.91 | ppl     2.47 | acc     0.84
+| epoch   2 | 31800/40285 batches | ms/batch  1.40 | loss  1.06 | ppl     2.88 | acc     0.81
+[2/25][31899/40285] Loss_D: 0.0020 (Loss_D_real: -0.0015 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+[2/25][31999/40285] Loss_D: 0.0020 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.133
+| epoch   2 | 32000/40285 batches | ms/batch 1571.09 | loss  0.94 | ppl     2.55 | acc     0.83
+| epoch   2 | 32000/40285 batches | ms/batch  1.20 | loss  1.07 | ppl     2.90 | acc     0.83
+[2/25][32099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+[2/25][32199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   2 | 32200/40285 batches | ms/batch 1583.59 | loss  0.91 | ppl     2.49 | acc     0.83
+| epoch   2 | 32200/40285 batches | ms/batch  1.32 | loss  1.06 | ppl     2.90 | acc     0.82
+[2/25][32299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.125
+[2/25][32399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.133
+| epoch   2 | 32400/40285 batches | ms/batch 1568.42 | loss  0.90 | ppl     2.47 | acc     0.85
+| epoch   2 | 32400/40285 batches | ms/batch  1.25 | loss  1.04 | ppl     2.84 | acc     0.82
+[2/25][32499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.094
+[2/25][32599/40285] Loss_D: 0.0020 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   2 | 32600/40285 batches | ms/batch 1572.21 | loss  0.89 | ppl     2.43 | acc     0.83
+| epoch   2 | 32600/40285 batches | ms/batch  1.13 | loss  1.03 | ppl     2.79 | acc     0.85
+[2/25][32699/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0005) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.125
+[2/25][32799/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   2 | 32800/40285 batches | ms/batch 1580.46 | loss  0.89 | ppl     2.43 | acc     0.84
+| epoch   2 | 32800/40285 batches | ms/batch  1.31 | loss  1.03 | ppl     2.80 | acc     0.81
+[2/25][32899/40285] Loss_D: 0.0027 (Loss_D_real: -0.0020 Loss_D_fake: 0.0007) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.078
+[2/25][32999/40285] Loss_D: 0.0024 (Loss_D_real: -0.0017 Loss_D_fake: 0.0007) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   2 | 33000/40285 batches | ms/batch 1579.85 | loss  0.91 | ppl     2.48 | acc     0.84
+| epoch   2 | 33000/40285 batches | ms/batch  1.18 | loss  1.05 | ppl     2.84 | acc     0.82
+[2/25][33099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.117
+[2/25][33199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   2 | 33200/40285 batches | ms/batch 1575.62 | loss  0.90 | ppl     2.45 | acc     0.84
+| epoch   2 | 33200/40285 batches | ms/batch  1.11 | loss  1.03 | ppl     2.80 | acc     0.81
+[2/25][33299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.078
+[2/25][33399/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   2 | 33400/40285 batches | ms/batch 1575.89 | loss  0.87 | ppl     2.38 | acc     0.84
+| epoch   2 | 33400/40285 batches | ms/batch  1.15 | loss  1.02 | ppl     2.78 | acc     0.84
+[2/25][33499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.133
+[2/25][33599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   2 | 33600/40285 batches | ms/batch 1579.31 | loss  0.88 | ppl     2.41 | acc     0.85
+| epoch   2 | 33600/40285 batches | ms/batch  1.61 | loss  1.02 | ppl     2.78 | acc     0.82
+[2/25][33699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0020 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.70 | Classify accuracy: 0.125
+[2/25][33799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: -0.0002
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   2 | 33800/40285 batches | ms/batch 1571.73 | loss  0.88 | ppl     2.41 | acc     0.83
+| epoch   2 | 33800/40285 batches | ms/batch  1.12 | loss  1.02 | ppl     2.76 | acc     0.83
+[2/25][33899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.172
+[2/25][33999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   2 | 34000/40285 batches | ms/batch 1578.75 | loss  0.87 | ppl     2.38 | acc     0.86
+| epoch   2 | 34000/40285 batches | ms/batch  1.14 | loss  1.01 | ppl     2.75 | acc     0.82
+[2/25][34099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+[2/25][34199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   2 | 34200/40285 batches | ms/batch 1584.60 | loss  0.87 | ppl     2.38 | acc     0.86
+| epoch   2 | 34200/40285 batches | ms/batch  1.15 | loss  1.02 | ppl     2.76 | acc     0.84
+[2/25][34299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.70 | Classify accuracy: 0.148
+[2/25][34399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.156
+| epoch   2 | 34400/40285 batches | ms/batch 1552.97 | loss  0.86 | ppl     2.37 | acc     0.85
+| epoch   2 | 34400/40285 batches | ms/batch  1.01 | loss  1.00 | ppl     2.71 | acc     0.83
+[2/25][34499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.188
+[2/25][34599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   2 | 34600/40285 batches | ms/batch 1575.90 | loss  0.87 | ppl     2.38 | acc     0.82
+| epoch   2 | 34600/40285 batches | ms/batch  1.36 | loss  1.00 | ppl     2.72 | acc     0.82
+[2/25][34699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.094
+[2/25][34799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.172
+| epoch   2 | 34800/40285 batches | ms/batch 1577.90 | loss  0.86 | ppl     2.37 | acc     0.85
+| epoch   2 | 34800/40285 batches | ms/batch  1.40 | loss  1.00 | ppl     2.72 | acc     0.83
+[2/25][34899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.148
+[2/25][34999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.133
+| epoch   2 | 35000/40285 batches | ms/batch 1679.07 | loss  0.85 | ppl     2.34 | acc     0.85
+| epoch   2 | 35000/40285 batches | ms/batch  1.14 | loss  0.98 | ppl     2.67 | acc     0.83
+[2/25][35099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.188
+[2/25][35199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.234
+| epoch   2 | 35200/40285 batches | ms/batch 1575.51 | loss  0.85 | ppl     2.34 | acc     0.86
+| epoch   2 | 35200/40285 batches | ms/batch  1.33 | loss  0.99 | ppl     2.68 | acc     0.83
+[2/25][35299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.164
+[2/25][35399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   2 | 35400/40285 batches | ms/batch 1572.82 | loss  0.83 | ppl     2.30 | acc     0.84
+| epoch   2 | 35400/40285 batches | ms/batch  1.44 | loss  0.98 | ppl     2.67 | acc     0.83
+[2/25][35499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.117
+[2/25][35599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   2 | 35600/40285 batches | ms/batch 1566.18 | loss  0.83 | ppl     2.28 | acc     0.84
+| epoch   2 | 35600/40285 batches | ms/batch  1.32 | loss  0.97 | ppl     2.65 | acc     0.81
+[2/25][35699/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.086
+[2/25][35799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   2 | 35800/40285 batches | ms/batch 1587.99 | loss  0.83 | ppl     2.29 | acc     0.85
+| epoch   2 | 35800/40285 batches | ms/batch  1.33 | loss  0.96 | ppl     2.60 | acc     0.83
+[2/25][35899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+[2/25][35999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.164
+| epoch   2 | 36000/40285 batches | ms/batch 1579.70 | loss  0.84 | ppl     2.31 | acc     0.85
+| epoch   2 | 36000/40285 batches | ms/batch  1.38 | loss  0.95 | ppl     2.60 | acc     0.81
+[2/25][36099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.125
+[2/25][36199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   2 | 36200/40285 batches | ms/batch 1577.21 | loss  0.82 | ppl     2.27 | acc     0.87
+| epoch   2 | 36200/40285 batches | ms/batch  1.29 | loss  0.95 | ppl     2.59 | acc     0.84
+[2/25][36299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.164
+[2/25][36399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.148
+| epoch   2 | 36400/40285 batches | ms/batch 1581.47 | loss  0.81 | ppl     2.25 | acc     0.85
+| epoch   2 | 36400/40285 batches | ms/batch  1.48 | loss  0.95 | ppl     2.59 | acc     0.80
+[2/25][36499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.062
+[2/25][36599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   2 | 36600/40285 batches | ms/batch 1571.28 | loss  0.80 | ppl     2.23 | acc     0.85
+| epoch   2 | 36600/40285 batches | ms/batch  1.10 | loss  0.95 | ppl     2.57 | acc     0.85
+[2/25][36699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.109
+[2/25][36799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0008
+Classify loss:  0.70 | Classify accuracy: 0.133
+| epoch   2 | 36800/40285 batches | ms/batch 1574.25 | loss  0.82 | ppl     2.26 | acc     0.88
+| epoch   2 | 36800/40285 batches | ms/batch  1.07 | loss  0.94 | ppl     2.56 | acc     0.83
+[2/25][36899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.062
+[2/25][36999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   2 | 37000/40285 batches | ms/batch 1578.02 | loss  0.79 | ppl     2.21 | acc     0.86
+| epoch   2 | 37000/40285 batches | ms/batch  1.38 | loss  0.95 | ppl     2.58 | acc     0.83
+[2/25][37099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0011 Loss_D_fake: 0.0011) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.102
+[2/25][37199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0011 Loss_D_fake: 0.0010) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   2 | 37200/40285 batches | ms/batch 1580.96 | loss  0.80 | ppl     2.23 | acc     0.85
+| epoch   2 | 37200/40285 batches | ms/batch  1.22 | loss  0.93 | ppl     2.55 | acc     0.82
+[2/25][37299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+[2/25][37399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   2 | 37400/40285 batches | ms/batch 1574.17 | loss  0.79 | ppl     2.20 | acc     0.88
+| epoch   2 | 37400/40285 batches | ms/batch  1.19 | loss  0.93 | ppl     2.52 | acc     0.83
+[2/25][37499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.125
+[2/25][37599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   2 | 37600/40285 batches | ms/batch 1571.23 | loss  0.79 | ppl     2.20 | acc     0.88
+| epoch   2 | 37600/40285 batches | ms/batch  1.11 | loss  0.93 | ppl     2.54 | acc     0.83
+[2/25][37699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.102
+[2/25][37799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   2 | 37800/40285 batches | ms/batch 1541.76 | loss  0.79 | ppl     2.21 | acc     0.88
+| epoch   2 | 37800/40285 batches | ms/batch  1.08 | loss  0.93 | ppl     2.53 | acc     0.85
+[2/25][37899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.133
+[2/25][37999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   2 | 38000/40285 batches | ms/batch 1550.55 | loss  0.79 | ppl     2.20 | acc     0.85
+| epoch   2 | 38000/40285 batches | ms/batch  1.38 | loss  0.91 | ppl     2.49 | acc     0.82
+[2/25][38099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.062
+[2/25][38199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   2 | 38200/40285 batches | ms/batch 1565.55 | loss  0.78 | ppl     2.18 | acc     0.81
+| epoch   2 | 38200/40285 batches | ms/batch  1.10 | loss  0.92 | ppl     2.51 | acc     0.84
+[2/25][38299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.055
+[2/25][38399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   2 | 38400/40285 batches | ms/batch 1579.02 | loss  0.77 | ppl     2.16 | acc     0.86
+| epoch   2 | 38400/40285 batches | ms/batch  1.28 | loss  0.91 | ppl     2.48 | acc     0.82
+[2/25][38499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.102
+[2/25][38599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   2 | 38600/40285 batches | ms/batch 1569.62 | loss  0.79 | ppl     2.21 | acc     0.85
+| epoch   2 | 38600/40285 batches | ms/batch  1.06 | loss  0.92 | ppl     2.52 | acc     0.83
+[2/25][38699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.102
+[2/25][38799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   2 | 38800/40285 batches | ms/batch 1584.58 | loss  0.78 | ppl     2.18 | acc     0.83
+| epoch   2 | 38800/40285 batches | ms/batch  1.28 | loss  0.91 | ppl     2.49 | acc     0.83
+[2/25][38899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.141
+[2/25][38999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.156
+| epoch   2 | 39000/40285 batches | ms/batch 1570.15 | loss  0.77 | ppl     2.15 | acc     0.89
+| epoch   2 | 39000/40285 batches | ms/batch  1.59 | loss  0.89 | ppl     2.44 | acc     0.86
+[2/25][39099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+[2/25][39199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   2 | 39200/40285 batches | ms/batch 1580.00 | loss  0.75 | ppl     2.13 | acc     0.86
+| epoch   2 | 39200/40285 batches | ms/batch  1.34 | loss  0.89 | ppl     2.44 | acc     0.82
+[2/25][39299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+[2/25][39399/40285] Loss_D: 0.0020 (Loss_D_real: -0.0012 Loss_D_fake: 0.0008) Loss_G: 0.0011
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   2 | 39400/40285 batches | ms/batch 1582.88 | loss  0.74 | ppl     2.11 | acc     0.88
+| epoch   2 | 39400/40285 batches | ms/batch  1.16 | loss  0.89 | ppl     2.44 | acc     0.86
+[2/25][39499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.102
+[2/25][39599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.156
+| epoch   2 | 39600/40285 batches | ms/batch 1572.78 | loss  0.76 | ppl     2.14 | acc     0.84
+| epoch   2 | 39600/40285 batches | ms/batch  1.11 | loss  0.89 | ppl     2.43 | acc     0.82
+[2/25][39699/40285] Loss_D: 0.0020 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.156
+[2/25][39799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   2 | 39800/40285 batches | ms/batch 1576.94 | loss  0.75 | ppl     2.12 | acc     0.87
+| epoch   2 | 39800/40285 batches | ms/batch  1.25 | loss  0.89 | ppl     2.43 | acc     0.84
+[2/25][39899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.102
+[2/25][39999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.047
+| epoch   2 | 40000/40285 batches | ms/batch 1675.86 | loss  0.75 | ppl     2.12 | acc     0.89
+| epoch   2 | 40000/40285 batches | ms/batch  1.17 | loss  0.89 | ppl     2.43 | acc     0.85
+[2/25][40099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0005) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.172
+[2/25][40199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.156
+| epoch   2 | 40200/40285 batches | ms/batch 1578.35 | loss  0.75 | ppl     2.11 | acc     0.88
+| epoch   2 | 40200/40285 batches | ms/batch  1.06 | loss  0.88 | ppl     2.40 | acc     0.83
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 63423.39s | test loss  0.93 | test ppl  2.54 | acc 0.840
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 63433.83s | test loss  1.08 | test ppl  2.94 | acc 0.817
+-----------------------------------------------------------------------------------------
+[3/25][99/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.148
+[3/25][199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.148
+| epoch   3 |   200/40285 batches | ms/batch 1573.92 | loss  0.73 | ppl     2.08 | acc     0.86
+| epoch   3 |   200/40285 batches | ms/batch  1.28 | loss  0.85 | ppl     2.35 | acc     0.82
+[3/25][299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 |   400/40285 batches | ms/batch 1568.66 | loss  0.72 | ppl     2.05 | acc     0.87
+| epoch   3 |   400/40285 batches | ms/batch  1.07 | loss  0.86 | ppl     2.36 | acc     0.85
+[3/25][499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0007) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.055
+[3/25][599/40285] Loss_D: 0.0023 (Loss_D_real: -0.0011 Loss_D_fake: 0.0012) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.039
+| epoch   3 |   600/40285 batches | ms/batch 1568.54 | loss  0.72 | ppl     2.06 | acc     0.85
+| epoch   3 |   600/40285 batches | ms/batch  1.09 | loss  0.86 | ppl     2.35 | acc     0.85
+[3/25][699/40285] Loss_D: 0.0023 (Loss_D_real: -0.0007 Loss_D_fake: 0.0016) Loss_G: 0.0013
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0007 Loss_D_fake: 0.0013) Loss_G: 0.0014
+Classify loss:  0.70 | Classify accuracy: 0.055
+| epoch   3 |   800/40285 batches | ms/batch 1551.25 | loss  0.73 | ppl     2.07 | acc     0.88
+| epoch   3 |   800/40285 batches | ms/batch  1.13 | loss  0.85 | ppl     2.35 | acc     0.83
+[3/25][899/40285] Loss_D: 0.0018 (Loss_D_real: -0.0017 Loss_D_fake: 0.0001) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 |  1000/40285 batches | ms/batch 1561.44 | loss  0.72 | ppl     2.06 | acc     0.88
+| epoch   3 |  1000/40285 batches | ms/batch  1.10 | loss  0.84 | ppl     2.31 | acc     0.86
+[3/25][1099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][1199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.078
+| epoch   3 |  1200/40285 batches | ms/batch 1554.66 | loss  0.71 | ppl     2.03 | acc     0.87
+| epoch   3 |  1200/40285 batches | ms/batch  1.37 | loss  0.84 | ppl     2.33 | acc     0.86
+[3/25][1299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][1399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.039
+| epoch   3 |  1400/40285 batches | ms/batch 1558.67 | loss  0.71 | ppl     2.03 | acc     0.89
+| epoch   3 |  1400/40285 batches | ms/batch  1.05 | loss  0.85 | ppl     2.34 | acc     0.85
+[3/25][1499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][1599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0012
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 |  1600/40285 batches | ms/batch 1555.07 | loss  0.71 | ppl     2.04 | acc     0.85
+| epoch   3 |  1600/40285 batches | ms/batch  1.20 | loss  0.83 | ppl     2.30 | acc     0.85
+[3/25][1699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][1799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 |  1800/40285 batches | ms/batch 1555.49 | loss  0.71 | ppl     2.03 | acc     0.88
+| epoch   3 |  1800/40285 batches | ms/batch  1.13 | loss  0.83 | ppl     2.30 | acc     0.85
+[3/25][1899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.125
+[3/25][1999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 |  2000/40285 batches | ms/batch 1562.25 | loss  0.70 | ppl     2.01 | acc     0.88
+| epoch   3 |  2000/40285 batches | ms/batch  1.26 | loss  0.85 | ppl     2.33 | acc     0.86
+[3/25][2099/40285] Loss_D: 0.0023 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][2199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 |  2200/40285 batches | ms/batch 1555.88 | loss  0.70 | ppl     2.01 | acc     0.89
+| epoch   3 |  2200/40285 batches | ms/batch  1.06 | loss  0.83 | ppl     2.28 | acc     0.85
+[3/25][2299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.055
+[3/25][2399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 |  2400/40285 batches | ms/batch 1551.78 | loss  0.69 | ppl     2.00 | acc     0.89
+| epoch   3 |  2400/40285 batches | ms/batch  1.19 | loss  0.82 | ppl     2.28 | acc     0.86
+[3/25][2499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][2599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 |  2600/40285 batches | ms/batch 1565.53 | loss  0.69 | ppl     2.00 | acc     0.87
+| epoch   3 |  2600/40285 batches | ms/batch  1.23 | loss  0.83 | ppl     2.28 | acc     0.87
+[3/25][2699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.008
+[3/25][2799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 |  2800/40285 batches | ms/batch 1565.89 | loss  0.68 | ppl     1.97 | acc     0.85
+| epoch   3 |  2800/40285 batches | ms/batch  1.23 | loss  0.81 | ppl     2.24 | acc     0.86
+[3/25][2899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][2999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 |  3000/40285 batches | ms/batch 1579.47 | loss  0.67 | ppl     1.96 | acc     0.89
+| epoch   3 |  3000/40285 batches | ms/batch  1.55 | loss  0.80 | ppl     2.23 | acc     0.84
+[3/25][3099/40285] Loss_D: 0.0023 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.141
+[3/25][3199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 |  3200/40285 batches | ms/batch 1573.31 | loss  0.67 | ppl     1.96 | acc     0.86
+| epoch   3 |  3200/40285 batches | ms/batch  1.08 | loss  0.80 | ppl     2.23 | acc     0.84
+[3/25][3299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][3399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 |  3400/40285 batches | ms/batch 1572.34 | loss  0.68 | ppl     1.98 | acc     0.87
+| epoch   3 |  3400/40285 batches | ms/batch  1.49 | loss  0.80 | ppl     2.22 | acc     0.87
+[3/25][3499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.125
+[3/25][3599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 |  3600/40285 batches | ms/batch 1570.97 | loss  0.67 | ppl     1.95 | acc     0.89
+| epoch   3 |  3600/40285 batches | ms/batch  1.24 | loss  0.80 | ppl     2.22 | acc     0.88
+[3/25][3699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.094
+[3/25][3799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 |  3800/40285 batches | ms/batch 1575.96 | loss  0.65 | ppl     1.92 | acc     0.88
+| epoch   3 |  3800/40285 batches | ms/batch  1.16 | loss  0.78 | ppl     2.19 | acc     0.88
+[3/25][3899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][3999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 |  4000/40285 batches | ms/batch 1573.67 | loss  0.66 | ppl     1.94 | acc     0.87
+| epoch   3 |  4000/40285 batches | ms/batch  1.13 | loss  0.78 | ppl     2.18 | acc     0.86
+[3/25][4099/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.156
+[3/25][4199/40285] Loss_D: 0.0020 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 |  4200/40285 batches | ms/batch 1587.15 | loss  0.65 | ppl     1.92 | acc     0.90
+| epoch   3 |  4200/40285 batches | ms/batch  1.24 | loss  0.78 | ppl     2.19 | acc     0.88
+[3/25][4299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][4399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 |  4400/40285 batches | ms/batch 1573.20 | loss  0.66 | ppl     1.94 | acc     0.88
+| epoch   3 |  4400/40285 batches | ms/batch  1.29 | loss  0.78 | ppl     2.18 | acc     0.87
+[3/25][4499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][4599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 |  4600/40285 batches | ms/batch 1575.27 | loss  0.65 | ppl     1.92 | acc     0.89
+| epoch   3 |  4600/40285 batches | ms/batch  1.15 | loss  0.78 | ppl     2.18 | acc     0.88
+[3/25][4699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.023
+[3/25][4799/40285] Loss_D: 0.0020 (Loss_D_real: -0.0011 Loss_D_fake: 0.0009) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 |  4800/40285 batches | ms/batch 1569.42 | loss  0.66 | ppl     1.94 | acc     0.87
+| epoch   3 |  4800/40285 batches | ms/batch  1.22 | loss  0.79 | ppl     2.20 | acc     0.86
+[3/25][4899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0011 Loss_D_fake: 0.0010) Loss_G: 0.0012
+Classify loss:  0.71 | Classify accuracy: 0.023
+[3/25][4999/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 |  5000/40285 batches | ms/batch 1680.13 | loss  0.65 | ppl     1.92 | acc     0.90
+| epoch   3 |  5000/40285 batches | ms/batch  1.27 | loss  0.78 | ppl     2.18 | acc     0.85
+[3/25][5099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.023
+[3/25][5199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 |  5200/40285 batches | ms/batch 1550.89 | loss  0.65 | ppl     1.91 | acc     0.85
+| epoch   3 |  5200/40285 batches | ms/batch  1.05 | loss  0.79 | ppl     2.21 | acc     0.86
+[3/25][5299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][5399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 |  5400/40285 batches | ms/batch 1544.00 | loss  0.63 | ppl     1.89 | acc     0.89
+| epoch   3 |  5400/40285 batches | ms/batch  1.25 | loss  0.77 | ppl     2.15 | acc     0.86
+[3/25][5499/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.125
+[3/25][5599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 |  5600/40285 batches | ms/batch 1553.12 | loss  0.65 | ppl     1.91 | acc     0.89
+| epoch   3 |  5600/40285 batches | ms/batch  1.17 | loss  0.77 | ppl     2.17 | acc     0.88
+[3/25][5699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.039
+[3/25][5799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.031
+| epoch   3 |  5800/40285 batches | ms/batch 1556.84 | loss  0.63 | ppl     1.87 | acc     0.89
+| epoch   3 |  5800/40285 batches | ms/batch  1.19 | loss  0.77 | ppl     2.15 | acc     0.87
+[3/25][5899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.055
+[3/25][5999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 |  6000/40285 batches | ms/batch 1552.52 | loss  0.64 | ppl     1.90 | acc     0.91
+| epoch   3 |  6000/40285 batches | ms/batch  1.11 | loss  0.78 | ppl     2.17 | acc     0.86
+[3/25][6099/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.086
+[3/25][6199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 |  6200/40285 batches | ms/batch 1554.11 | loss  0.64 | ppl     1.89 | acc     0.88
+| epoch   3 |  6200/40285 batches | ms/batch  1.18 | loss  0.76 | ppl     2.14 | acc     0.88
+[3/25][6299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.125
+[3/25][6399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 |  6400/40285 batches | ms/batch 1557.84 | loss  0.62 | ppl     1.87 | acc     0.89
+| epoch   3 |  6400/40285 batches | ms/batch  1.06 | loss  0.75 | ppl     2.12 | acc     0.87
+[3/25][6499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.117
+[3/25][6599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0012
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 |  6600/40285 batches | ms/batch 1543.39 | loss  0.63 | ppl     1.88 | acc     0.89
+| epoch   3 |  6600/40285 batches | ms/batch  1.11 | loss  0.75 | ppl     2.12 | acc     0.87
+[3/25][6699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.70 | Classify accuracy: 0.180
+[3/25][6799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.70 | Classify accuracy: 0.156
+| epoch   3 |  6800/40285 batches | ms/batch 1556.55 | loss  0.63 | ppl     1.88 | acc     0.92
+| epoch   3 |  6800/40285 batches | ms/batch  1.07 | loss  0.75 | ppl     2.12 | acc     0.87
+[3/25][6899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.70 | Classify accuracy: 0.141
+[3/25][6999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   3 |  7000/40285 batches | ms/batch 1554.93 | loss  0.63 | ppl     1.87 | acc     0.86
+| epoch   3 |  7000/40285 batches | ms/batch  1.34 | loss  0.75 | ppl     2.13 | acc     0.88
+[3/25][7099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0010 Loss_D_fake: 0.0011) Loss_G: 0.0011
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][7199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 |  7200/40285 batches | ms/batch 1554.52 | loss  0.63 | ppl     1.88 | acc     0.90
+| epoch   3 |  7200/40285 batches | ms/batch  1.31 | loss  0.76 | ppl     2.14 | acc     0.87
+[3/25][7299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][7399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 |  7400/40285 batches | ms/batch 1549.01 | loss  0.63 | ppl     1.88 | acc     0.88
+| epoch   3 |  7400/40285 batches | ms/batch  1.33 | loss  0.75 | ppl     2.11 | acc     0.88
+[3/25][7499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][7599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.148
+| epoch   3 |  7600/40285 batches | ms/batch 1551.54 | loss  0.62 | ppl     1.86 | acc     0.87
+| epoch   3 |  7600/40285 batches | ms/batch  1.08 | loss  0.74 | ppl     2.09 | acc     0.86
+[3/25][7699/40285] Loss_D: 0.0020 (Loss_D_real: -0.0015 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][7799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 |  7800/40285 batches | ms/batch 1556.53 | loss  0.61 | ppl     1.84 | acc     0.90
+| epoch   3 |  7800/40285 batches | ms/batch  1.08 | loss  0.73 | ppl     2.08 | acc     0.87
+[3/25][7899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.070
+[3/25][7999/40285] Loss_D: 0.0024 (Loss_D_real: -0.0016 Loss_D_fake: 0.0008) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   3 |  8000/40285 batches | ms/batch 1547.23 | loss  0.60 | ppl     1.82 | acc     0.89
+| epoch   3 |  8000/40285 batches | ms/batch  1.26 | loss  0.72 | ppl     2.06 | acc     0.88
+[3/25][8099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.102
+[3/25][8199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 |  8200/40285 batches | ms/batch 1550.44 | loss  0.60 | ppl     1.83 | acc     0.88
+| epoch   3 |  8200/40285 batches | ms/batch  1.09 | loss  0.72 | ppl     2.06 | acc     0.86
+[3/25][8299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.109
+[3/25][8399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 |  8400/40285 batches | ms/batch 1539.68 | loss  0.61 | ppl     1.84 | acc     0.86
+| epoch   3 |  8400/40285 batches | ms/batch  1.89 | loss  0.73 | ppl     2.07 | acc     0.87
+[3/25][8499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][8599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 |  8600/40285 batches | ms/batch 1540.59 | loss  0.61 | ppl     1.84 | acc     0.92
+| epoch   3 |  8600/40285 batches | ms/batch  1.27 | loss  0.73 | ppl     2.08 | acc     0.87
+[3/25][8699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.133
+[3/25][8799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.133
+| epoch   3 |  8800/40285 batches | ms/batch 1539.75 | loss  0.60 | ppl     1.82 | acc     0.90
+| epoch   3 |  8800/40285 batches | ms/batch  1.22 | loss  0.73 | ppl     2.07 | acc     0.88
+[3/25][8899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.109
+[3/25][8999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 |  9000/40285 batches | ms/batch 1548.09 | loss  0.61 | ppl     1.83 | acc     0.88
+| epoch   3 |  9000/40285 batches | ms/batch  1.12 | loss  0.71 | ppl     2.04 | acc     0.87
+[3/25][9099/40285] Loss_D: 0.0024 (Loss_D_real: -0.0019 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][9199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 |  9200/40285 batches | ms/batch 1553.40 | loss  0.59 | ppl     1.80 | acc     0.90
+| epoch   3 |  9200/40285 batches | ms/batch  1.08 | loss  0.72 | ppl     2.04 | acc     0.89
+[3/25][9299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][9399/40285] Loss_D: 0.0019 (Loss_D_real: -0.0014 Loss_D_fake: 0.0005) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 |  9400/40285 batches | ms/batch 1538.75 | loss  0.60 | ppl     1.82 | acc     0.89
+| epoch   3 |  9400/40285 batches | ms/batch  1.14 | loss  0.71 | ppl     2.03 | acc     0.89
+[3/25][9499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][9599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 |  9600/40285 batches | ms/batch 1544.24 | loss  0.58 | ppl     1.79 | acc     0.92
+| epoch   3 |  9600/40285 batches | ms/batch  1.05 | loss  0.70 | ppl     2.02 | acc     0.86
+[3/25][9699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][9799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 |  9800/40285 batches | ms/batch 1539.68 | loss  0.59 | ppl     1.81 | acc     0.90
+| epoch   3 |  9800/40285 batches | ms/batch  1.08 | loss  0.70 | ppl     2.02 | acc     0.90
+[3/25][9899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.109
+[3/25][9999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 10000/40285 batches | ms/batch 1684.22 | loss  0.60 | ppl     1.82 | acc     0.91
+| epoch   3 | 10000/40285 batches | ms/batch  1.11 | loss  0.71 | ppl     2.04 | acc     0.88
+[3/25][10099/40285] Loss_D: 0.0025 (Loss_D_real: -0.0019 Loss_D_fake: 0.0007) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.133
+[3/25][10199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.141
+| epoch   3 | 10200/40285 batches | ms/batch 1580.56 | loss  0.58 | ppl     1.79 | acc     0.88
+| epoch   3 | 10200/40285 batches | ms/batch  1.09 | loss  0.70 | ppl     2.01 | acc     0.87
+[3/25][10299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.141
+[3/25][10399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 10400/40285 batches | ms/batch 1568.62 | loss  0.59 | ppl     1.80 | acc     0.88
+| epoch   3 | 10400/40285 batches | ms/batch  1.09 | loss  0.70 | ppl     2.02 | acc     0.86
+[3/25][10499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.141
+[3/25][10599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.148
+| epoch   3 | 10600/40285 batches | ms/batch 1565.04 | loss  0.58 | ppl     1.78 | acc     0.91
+| epoch   3 | 10600/40285 batches | ms/batch  1.25 | loss  0.70 | ppl     2.00 | acc     0.87
+[3/25][10699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][10799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.180
+| epoch   3 | 10800/40285 batches | ms/batch 1584.11 | loss  0.57 | ppl     1.77 | acc     0.91
+| epoch   3 | 10800/40285 batches | ms/batch  1.08 | loss  0.68 | ppl     1.98 | acc     0.86
+[3/25][10899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.055
+[3/25][10999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   3 | 11000/40285 batches | ms/batch 1577.70 | loss  0.58 | ppl     1.78 | acc     0.89
+| epoch   3 | 11000/40285 batches | ms/batch  1.13 | loss  0.69 | ppl     1.99 | acc     0.88
+[3/25][11099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][11199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 11200/40285 batches | ms/batch 1571.72 | loss  0.58 | ppl     1.78 | acc     0.93
+| epoch   3 | 11200/40285 batches | ms/batch  1.09 | loss  0.70 | ppl     2.01 | acc     0.88
+[3/25][11299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][11399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.117
+| epoch   3 | 11400/40285 batches | ms/batch 1563.04 | loss  0.56 | ppl     1.75 | acc     0.91
+| epoch   3 | 11400/40285 batches | ms/batch  1.14 | loss  0.68 | ppl     1.97 | acc     0.88
+[3/25][11499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][11599/40285] Loss_D: 0.0019 (Loss_D_real: -0.0014 Loss_D_fake: 0.0004) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.141
+| epoch   3 | 11600/40285 batches | ms/batch 1571.72 | loss  0.57 | ppl     1.77 | acc     0.88
+| epoch   3 | 11600/40285 batches | ms/batch  1.42 | loss  0.67 | ppl     1.95 | acc     0.87
+[3/25][11699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.117
+[3/25][11799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 11800/40285 batches | ms/batch 1568.91 | loss  0.56 | ppl     1.75 | acc     0.88
+| epoch   3 | 11800/40285 batches | ms/batch  1.72 | loss  0.67 | ppl     1.96 | acc     0.88
+[3/25][11899/40285] Loss_D: 0.0024 (Loss_D_real: -0.0019 Loss_D_fake: 0.0005) Loss_G: 0.0002
+Classify loss:  0.70 | Classify accuracy: 0.141
+[3/25][11999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.133
+| epoch   3 | 12000/40285 batches | ms/batch 1576.90 | loss  0.56 | ppl     1.74 | acc     0.89
+| epoch   3 | 12000/40285 batches | ms/batch  1.16 | loss  0.67 | ppl     1.95 | acc     0.90
+[3/25][12099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.195
+[3/25][12199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 12200/40285 batches | ms/batch 1573.37 | loss  0.55 | ppl     1.73 | acc     0.91
+| epoch   3 | 12200/40285 batches | ms/batch  1.50 | loss  0.67 | ppl     1.95 | acc     0.89
+[3/25][12299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.133
+[3/25][12399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   3 | 12400/40285 batches | ms/batch 1558.52 | loss  0.56 | ppl     1.74 | acc     0.91
+| epoch   3 | 12400/40285 batches | ms/batch  1.20 | loss  0.67 | ppl     1.96 | acc     0.91
+[3/25][12499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][12599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   3 | 12600/40285 batches | ms/batch 1573.27 | loss  0.56 | ppl     1.75 | acc     0.89
+| epoch   3 | 12600/40285 batches | ms/batch  1.04 | loss  0.67 | ppl     1.95 | acc     0.90
+[3/25][12699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.133
+[3/25][12799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 | 12800/40285 batches | ms/batch 1566.45 | loss  0.56 | ppl     1.76 | acc     0.90
+| epoch   3 | 12800/40285 batches | ms/batch  1.22 | loss  0.67 | ppl     1.96 | acc     0.89
+[3/25][12899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][12999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 13000/40285 batches | ms/batch 1576.49 | loss  0.56 | ppl     1.76 | acc     0.89
+| epoch   3 | 13000/40285 batches | ms/batch  1.33 | loss  0.66 | ppl     1.94 | acc     0.89
+[3/25][13099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.039
+[3/25][13199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.156
+| epoch   3 | 13200/40285 batches | ms/batch 1577.64 | loss  0.55 | ppl     1.74 | acc     0.91
+| epoch   3 | 13200/40285 batches | ms/batch  1.21 | loss  0.66 | ppl     1.94 | acc     0.88
+[3/25][13299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][13399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.109
+| epoch   3 | 13400/40285 batches | ms/batch 1577.43 | loss  0.54 | ppl     1.71 | acc     0.91
+| epoch   3 | 13400/40285 batches | ms/batch  1.24 | loss  0.66 | ppl     1.93 | acc     0.88
+[3/25][13499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.086
+[3/25][13599/40285] Loss_D: 0.0025 (Loss_D_real: -0.0019 Loss_D_fake: 0.0005) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 13600/40285 batches | ms/batch 1577.11 | loss  0.53 | ppl     1.70 | acc     0.93
+| epoch   3 | 13600/40285 batches | ms/batch  1.07 | loss  0.66 | ppl     1.93 | acc     0.88
+[3/25][13699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][13799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 13800/40285 batches | ms/batch 1577.53 | loss  0.54 | ppl     1.72 | acc     0.90
+| epoch   3 | 13800/40285 batches | ms/batch  1.11 | loss  0.66 | ppl     1.93 | acc     0.86
+[3/25][13899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.023
+[3/25][13999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 14000/40285 batches | ms/batch 1575.14 | loss  0.53 | ppl     1.70 | acc     0.91
+| epoch   3 | 14000/40285 batches | ms/batch  1.26 | loss  0.66 | ppl     1.93 | acc     0.89
+[3/25][14099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][14199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.047
+| epoch   3 | 14200/40285 batches | ms/batch 1549.40 | loss  0.53 | ppl     1.71 | acc     0.90
+| epoch   3 | 14200/40285 batches | ms/batch  1.14 | loss  0.65 | ppl     1.92 | acc     0.89
+[3/25][14299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.039
+[3/25][14399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.031
+| epoch   3 | 14400/40285 batches | ms/batch 1574.43 | loss  0.53 | ppl     1.70 | acc     0.90
+| epoch   3 | 14400/40285 batches | ms/batch  1.21 | loss  0.63 | ppl     1.89 | acc     0.88
+[3/25][14499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.078
+[3/25][14599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 14600/40285 batches | ms/batch 1556.92 | loss  0.53 | ppl     1.70 | acc     0.89
+| epoch   3 | 14600/40285 batches | ms/batch  1.43 | loss  0.64 | ppl     1.89 | acc     0.86
+[3/25][14699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.156
+[3/25][14799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 14800/40285 batches | ms/batch 1563.65 | loss  0.53 | ppl     1.71 | acc     0.89
+| epoch   3 | 14800/40285 batches | ms/batch  1.32 | loss  0.64 | ppl     1.89 | acc     0.85
+[3/25][14899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][14999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 15000/40285 batches | ms/batch 1659.62 | loss  0.53 | ppl     1.71 | acc     0.89
+| epoch   3 | 15000/40285 batches | ms/batch  1.39 | loss  0.63 | ppl     1.88 | acc     0.85
+[3/25][15099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][15199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 15200/40285 batches | ms/batch 1557.91 | loss  0.53 | ppl     1.70 | acc     0.91
+| epoch   3 | 15200/40285 batches | ms/batch  1.27 | loss  0.64 | ppl     1.89 | acc     0.87
+[3/25][15299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][15399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.055
+| epoch   3 | 15400/40285 batches | ms/batch 1562.29 | loss  0.52 | ppl     1.68 | acc     0.93
+| epoch   3 | 15400/40285 batches | ms/batch  1.63 | loss  0.64 | ppl     1.89 | acc     0.90
+[3/25][15499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][15599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.055
+| epoch   3 | 15600/40285 batches | ms/batch 1555.17 | loss  0.50 | ppl     1.66 | acc     0.93
+| epoch   3 | 15600/40285 batches | ms/batch  1.02 | loss  0.62 | ppl     1.86 | acc     0.91
+[3/25][15699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][15799/40285] Loss_D: 0.0020 (Loss_D_real: -0.0011 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.156
+| epoch   3 | 15800/40285 batches | ms/batch 1554.59 | loss  0.52 | ppl     1.68 | acc     0.89
+| epoch   3 | 15800/40285 batches | ms/batch  1.24 | loss  0.61 | ppl     1.85 | acc     0.88
+[3/25][15899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][15999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 16000/40285 batches | ms/batch 1572.79 | loss  0.52 | ppl     1.67 | acc     0.91
+| epoch   3 | 16000/40285 batches | ms/batch  1.21 | loss  0.63 | ppl     1.88 | acc     0.91
+[3/25][16099/40285] Loss_D: 0.0020 (Loss_D_real: -0.0018 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.70 | Classify accuracy: 0.102
+[3/25][16199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 16200/40285 batches | ms/batch 1557.50 | loss  0.51 | ppl     1.67 | acc     0.91
+| epoch   3 | 16200/40285 batches | ms/batch  1.35 | loss  0.61 | ppl     1.85 | acc     0.87
+[3/25][16299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][16399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.047
+| epoch   3 | 16400/40285 batches | ms/batch 1565.16 | loss  0.51 | ppl     1.66 | acc     0.91
+| epoch   3 | 16400/40285 batches | ms/batch  1.60 | loss  0.61 | ppl     1.84 | acc     0.88
+[3/25][16499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][16599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 16600/40285 batches | ms/batch 1559.29 | loss  0.52 | ppl     1.69 | acc     0.91
+| epoch   3 | 16600/40285 batches | ms/batch  1.05 | loss  0.62 | ppl     1.86 | acc     0.91
+[3/25][16699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.70 | Classify accuracy: 0.109
+[3/25][16799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 16800/40285 batches | ms/batch 1577.17 | loss  0.50 | ppl     1.65 | acc     0.90
+| epoch   3 | 16800/40285 batches | ms/batch  1.17 | loss  0.62 | ppl     1.85 | acc     0.90
+[3/25][16899/40285] Loss_D: 0.0023 (Loss_D_real: -0.0015 Loss_D_fake: 0.0008) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][16999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 | 17000/40285 batches | ms/batch 1573.90 | loss  0.52 | ppl     1.67 | acc     0.92
+| epoch   3 | 17000/40285 batches | ms/batch  1.44 | loss  0.62 | ppl     1.86 | acc     0.89
+[3/25][17099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][17199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0013 Loss_D_fake: 0.0009) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.047
+| epoch   3 | 17200/40285 batches | ms/batch 1569.75 | loss  0.51 | ppl     1.66 | acc     0.93
+| epoch   3 | 17200/40285 batches | ms/batch  1.35 | loss  0.61 | ppl     1.85 | acc     0.88
+[3/25][17299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][17399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.117
+| epoch   3 | 17400/40285 batches | ms/batch 1570.77 | loss  0.49 | ppl     1.64 | acc     0.90
+| epoch   3 | 17400/40285 batches | ms/batch  1.73 | loss  0.62 | ppl     1.86 | acc     0.90
+[3/25][17499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.047
+[3/25][17599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 17600/40285 batches | ms/batch 1584.28 | loss  0.49 | ppl     1.63 | acc     0.93
+| epoch   3 | 17600/40285 batches | ms/batch  1.34 | loss  0.61 | ppl     1.84 | acc     0.89
+[3/25][17699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][17799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 17800/40285 batches | ms/batch 1582.62 | loss  0.50 | ppl     1.65 | acc     0.90
+| epoch   3 | 17800/40285 batches | ms/batch  1.29 | loss  0.60 | ppl     1.82 | acc     0.91
+[3/25][17899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.133
+[3/25][17999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 18000/40285 batches | ms/batch 1577.79 | loss  0.50 | ppl     1.65 | acc     0.89
+| epoch   3 | 18000/40285 batches | ms/batch  1.29 | loss  0.61 | ppl     1.83 | acc     0.88
+[3/25][18099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.117
+[3/25][18199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.109
+| epoch   3 | 18200/40285 batches | ms/batch 1573.19 | loss  0.51 | ppl     1.67 | acc     0.91
+| epoch   3 | 18200/40285 batches | ms/batch  1.39 | loss  0.61 | ppl     1.84 | acc     0.89
+[3/25][18299/40285] Loss_D: 0.0023 (Loss_D_real: -0.0016 Loss_D_fake: 0.0007) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.117
+[3/25][18399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 18400/40285 batches | ms/batch 1584.09 | loss  0.49 | ppl     1.64 | acc     0.91
+| epoch   3 | 18400/40285 batches | ms/batch  1.10 | loss  0.60 | ppl     1.81 | acc     0.90
+[3/25][18499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][18599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.148
+| epoch   3 | 18600/40285 batches | ms/batch 1580.89 | loss  0.50 | ppl     1.65 | acc     0.91
+| epoch   3 | 18600/40285 batches | ms/batch  1.12 | loss  0.61 | ppl     1.83 | acc     0.90
+[3/25][18699/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][18799/40285] Loss_D: 0.0020 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 18800/40285 batches | ms/batch 1570.93 | loss  0.49 | ppl     1.63 | acc     0.90
+| epoch   3 | 18800/40285 batches | ms/batch  1.21 | loss  0.60 | ppl     1.82 | acc     0.90
+[3/25][18899/40285] Loss_D: 0.0027 (Loss_D_real: -0.0020 Loss_D_fake: 0.0007) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][18999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.031
+| epoch   3 | 19000/40285 batches | ms/batch 1581.32 | loss  0.50 | ppl     1.64 | acc     0.91
+| epoch   3 | 19000/40285 batches | ms/batch  1.09 | loss  0.61 | ppl     1.84 | acc     0.90
+[3/25][19099/40285] Loss_D: 0.0024 (Loss_D_real: -0.0016 Loss_D_fake: 0.0008) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][19199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.148
+| epoch   3 | 19200/40285 batches | ms/batch 1583.01 | loss  0.50 | ppl     1.65 | acc     0.92
+| epoch   3 | 19200/40285 batches | ms/batch  1.41 | loss  0.60 | ppl     1.82 | acc     0.90
+[3/25][19299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.109
+[3/25][19399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.016
+| epoch   3 | 19400/40285 batches | ms/batch 1574.18 | loss  0.50 | ppl     1.65 | acc     0.91
+| epoch   3 | 19400/40285 batches | ms/batch  1.25 | loss  0.61 | ppl     1.84 | acc     0.90
+[3/25][19499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][19599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 19600/40285 batches | ms/batch 1568.84 | loss  0.49 | ppl     1.64 | acc     0.88
+| epoch   3 | 19600/40285 batches | ms/batch  1.26 | loss  0.60 | ppl     1.82 | acc     0.90
+[3/25][19699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][19799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 19800/40285 batches | ms/batch 1558.51 | loss  0.49 | ppl     1.63 | acc     0.93
+| epoch   3 | 19800/40285 batches | ms/batch  1.43 | loss  0.60 | ppl     1.81 | acc     0.89
+[3/25][19899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.141
+[3/25][19999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 20000/40285 batches | ms/batch 1665.09 | loss  0.49 | ppl     1.63 | acc     0.91
+| epoch   3 | 20000/40285 batches | ms/batch  1.47 | loss  0.59 | ppl     1.80 | acc     0.89
+[3/25][20099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][20199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.133
+| epoch   3 | 20200/40285 batches | ms/batch 1577.62 | loss  0.49 | ppl     1.63 | acc     0.93
+| epoch   3 | 20200/40285 batches | ms/batch  1.22 | loss  0.59 | ppl     1.81 | acc     0.88
+[3/25][20299/40285] Loss_D: 0.0020 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][20399/40285] Loss_D: 0.0020 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.109
+| epoch   3 | 20400/40285 batches | ms/batch 1566.89 | loss  0.47 | ppl     1.61 | acc     0.92
+| epoch   3 | 20400/40285 batches | ms/batch  1.11 | loss  0.59 | ppl     1.80 | acc     0.87
+[3/25][20499/40285] Loss_D: 0.0023 (Loss_D_real: -0.0016 Loss_D_fake: 0.0007) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.117
+[3/25][20599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 20600/40285 batches | ms/batch 1573.48 | loss  0.48 | ppl     1.62 | acc     0.93
+| epoch   3 | 20600/40285 batches | ms/batch  1.42 | loss  0.58 | ppl     1.79 | acc     0.90
+[3/25][20699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.125
+[3/25][20799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 20800/40285 batches | ms/batch 1555.45 | loss  0.47 | ppl     1.61 | acc     0.93
+| epoch   3 | 20800/40285 batches | ms/batch  1.42 | loss  0.58 | ppl     1.78 | acc     0.88
+[3/25][20899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.172
+[3/25][20999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 21000/40285 batches | ms/batch 1565.74 | loss  0.47 | ppl     1.60 | acc     0.93
+| epoch   3 | 21000/40285 batches | ms/batch  1.21 | loss  0.57 | ppl     1.77 | acc     0.92
+[3/25][21099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][21199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   3 | 21200/40285 batches | ms/batch 1565.89 | loss  0.47 | ppl     1.59 | acc     0.93
+| epoch   3 | 21200/40285 batches | ms/batch  1.16 | loss  0.58 | ppl     1.78 | acc     0.92
+[3/25][21299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][21399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 21400/40285 batches | ms/batch 1559.23 | loss  0.49 | ppl     1.63 | acc     0.93
+| epoch   3 | 21400/40285 batches | ms/batch  1.10 | loss  0.59 | ppl     1.80 | acc     0.89
+[3/25][21499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.117
+[3/25][21599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 21600/40285 batches | ms/batch 1552.91 | loss  0.46 | ppl     1.59 | acc     0.92
+| epoch   3 | 21600/40285 batches | ms/batch  1.51 | loss  0.57 | ppl     1.77 | acc     0.89
+[3/25][21699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.047
+[3/25][21799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   3 | 21800/40285 batches | ms/batch 1574.89 | loss  0.46 | ppl     1.58 | acc     0.91
+| epoch   3 | 21800/40285 batches | ms/batch  1.23 | loss  0.57 | ppl     1.77 | acc     0.88
+[3/25][21899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.109
+[3/25][21999/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   3 | 22000/40285 batches | ms/batch 1582.15 | loss  0.46 | ppl     1.58 | acc     0.92
+| epoch   3 | 22000/40285 batches | ms/batch  1.11 | loss  0.57 | ppl     1.77 | acc     0.90
+[3/25][22099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+[3/25][22199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 22200/40285 batches | ms/batch 1579.91 | loss  0.46 | ppl     1.58 | acc     0.91
+| epoch   3 | 22200/40285 batches | ms/batch  1.48 | loss  0.57 | ppl     1.77 | acc     0.89
+[3/25][22299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.133
+[3/25][22399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.203
+| epoch   3 | 22400/40285 batches | ms/batch 1567.17 | loss  0.46 | ppl     1.59 | acc     0.90
+| epoch   3 | 22400/40285 batches | ms/batch  1.07 | loss  0.57 | ppl     1.76 | acc     0.92
+[3/25][22499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.180
+[3/25][22599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 | 22600/40285 batches | ms/batch 1556.07 | loss  0.47 | ppl     1.60 | acc     0.91
+| epoch   3 | 22600/40285 batches | ms/batch  1.18 | loss  0.56 | ppl     1.76 | acc     0.88
+[3/25][22699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][22799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.133
+| epoch   3 | 22800/40285 batches | ms/batch 1570.93 | loss  0.46 | ppl     1.59 | acc     0.91
+| epoch   3 | 22800/40285 batches | ms/batch  1.18 | loss  0.56 | ppl     1.75 | acc     0.89
+[3/25][22899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][22999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.094
+| epoch   3 | 23000/40285 batches | ms/batch 1551.25 | loss  0.47 | ppl     1.60 | acc     0.92
+| epoch   3 | 23000/40285 batches | ms/batch  1.74 | loss  0.57 | ppl     1.76 | acc     0.90
+[3/25][23099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][23199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.031
+| epoch   3 | 23200/40285 batches | ms/batch 1554.62 | loss  0.46 | ppl     1.58 | acc     0.91
+| epoch   3 | 23200/40285 batches | ms/batch  1.13 | loss  0.56 | ppl     1.75 | acc     0.91
+[3/25][23299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][23399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.70 | Classify accuracy: 0.141
+| epoch   3 | 23400/40285 batches | ms/batch 1542.09 | loss  0.46 | ppl     1.59 | acc     0.92
+| epoch   3 | 23400/40285 batches | ms/batch  1.19 | loss  0.55 | ppl     1.74 | acc     0.90
+[3/25][23499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][23599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 23600/40285 batches | ms/batch 1544.34 | loss  0.46 | ppl     1.59 | acc     0.92
+| epoch   3 | 23600/40285 batches | ms/batch  1.14 | loss  0.56 | ppl     1.75 | acc     0.90
+[3/25][23699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][23799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 23800/40285 batches | ms/batch 1542.71 | loss  0.45 | ppl     1.57 | acc     0.91
+| epoch   3 | 23800/40285 batches | ms/batch  1.66 | loss  0.55 | ppl     1.74 | acc     0.89
+[3/25][23899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+[3/25][23999/40285] Loss_D: 0.0023 (Loss_D_real: -0.0016 Loss_D_fake: 0.0007) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 24000/40285 batches | ms/batch 1537.92 | loss  0.45 | ppl     1.57 | acc     0.91
+| epoch   3 | 24000/40285 batches | ms/batch  1.30 | loss  0.55 | ppl     1.74 | acc     0.90
+[3/25][24099/40285] Loss_D: 0.0020 (Loss_D_real: -0.0015 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][24199/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 24200/40285 batches | ms/batch 1534.40 | loss  0.46 | ppl     1.58 | acc     0.92
+| epoch   3 | 24200/40285 batches | ms/batch  1.29 | loss  0.55 | ppl     1.74 | acc     0.91
+[3/25][24299/40285] Loss_D: 0.0019 (Loss_D_real: -0.0012 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][24399/40285] Loss_D: 0.0020 (Loss_D_real: -0.0011 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   3 | 24400/40285 batches | ms/batch 1540.38 | loss  0.44 | ppl     1.55 | acc     0.90
+| epoch   3 | 24400/40285 batches | ms/batch  1.39 | loss  0.54 | ppl     1.72 | acc     0.89
+[3/25][24499/40285] Loss_D: 0.0023 (Loss_D_real: -0.0019 Loss_D_fake: 0.0004) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][24599/40285] Loss_D: 0.0024 (Loss_D_real: -0.0019 Loss_D_fake: 0.0005) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.039
+| epoch   3 | 24600/40285 batches | ms/batch 1534.94 | loss  0.46 | ppl     1.58 | acc     0.95
+| epoch   3 | 24600/40285 batches | ms/batch  1.38 | loss  0.55 | ppl     1.74 | acc     0.90
+[3/25][24699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0006) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.109
+[3/25][24799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 24800/40285 batches | ms/batch 1538.38 | loss  0.45 | ppl     1.57 | acc     0.92
+| epoch   3 | 24800/40285 batches | ms/batch  1.42 | loss  0.54 | ppl     1.72 | acc     0.92
+[3/25][24899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][24999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 25000/40285 batches | ms/batch 1646.88 | loss  0.44 | ppl     1.55 | acc     0.91
+| epoch   3 | 25000/40285 batches | ms/batch  1.19 | loss  0.53 | ppl     1.70 | acc     0.89
+[3/25][25099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.055
+[3/25][25199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.094
+| epoch   3 | 25200/40285 batches | ms/batch 1533.78 | loss  0.43 | ppl     1.54 | acc     0.92
+| epoch   3 | 25200/40285 batches | ms/batch  1.23 | loss  0.53 | ppl     1.70 | acc     0.90
+[3/25][25299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][25399/40285] Loss_D: 0.0020 (Loss_D_real: -0.0016 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 25400/40285 batches | ms/batch 1545.50 | loss  0.43 | ppl     1.54 | acc     0.92
+| epoch   3 | 25400/40285 batches | ms/batch  1.24 | loss  0.53 | ppl     1.69 | acc     0.91
+[3/25][25499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.031
+[3/25][25599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 25600/40285 batches | ms/batch 1541.23 | loss  0.44 | ppl     1.55 | acc     0.91
+| epoch   3 | 25600/40285 batches | ms/batch  1.12 | loss  0.53 | ppl     1.70 | acc     0.91
+[3/25][25699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.102
+[3/25][25799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.047
+| epoch   3 | 25800/40285 batches | ms/batch 1536.23 | loss  0.42 | ppl     1.53 | acc     0.94
+| epoch   3 | 25800/40285 batches | ms/batch  1.20 | loss  0.52 | ppl     1.68 | acc     0.92
+[3/25][25899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][25999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 26000/40285 batches | ms/batch 1552.00 | loss  0.43 | ppl     1.54 | acc     0.92
+| epoch   3 | 26000/40285 batches | ms/batch  1.16 | loss  0.52 | ppl     1.67 | acc     0.90
+[3/25][26099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.078
+[3/25][26199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.023
+| epoch   3 | 26200/40285 batches | ms/batch 1539.61 | loss  0.43 | ppl     1.54 | acc     0.92
+| epoch   3 | 26200/40285 batches | ms/batch  1.10 | loss  0.52 | ppl     1.68 | acc     0.90
+[3/25][26299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.094
+[3/25][26399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.102
+| epoch   3 | 26400/40285 batches | ms/batch 1545.14 | loss  0.43 | ppl     1.53 | acc     0.92
+| epoch   3 | 26400/40285 batches | ms/batch  1.39 | loss  0.53 | ppl     1.71 | acc     0.91
+[3/25][26499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][26599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 26600/40285 batches | ms/batch 1537.08 | loss  0.42 | ppl     1.52 | acc     0.90
+| epoch   3 | 26600/40285 batches | ms/batch  1.26 | loss  0.51 | ppl     1.67 | acc     0.92
+[3/25][26699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+[3/25][26799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   3 | 26800/40285 batches | ms/batch 1554.97 | loss  0.43 | ppl     1.54 | acc     0.91
+| epoch   3 | 26800/40285 batches | ms/batch  1.13 | loss  0.52 | ppl     1.68 | acc     0.92
+[3/25][26899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][26999/40285] Loss_D: 0.0024 (Loss_D_real: -0.0013 Loss_D_fake: 0.0010) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 27000/40285 batches | ms/batch 1543.11 | loss  0.42 | ppl     1.52 | acc     0.94
+| epoch   3 | 27000/40285 batches | ms/batch  1.23 | loss  0.51 | ppl     1.66 | acc     0.96
+[3/25][27099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.141
+[3/25][27199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.016
+| epoch   3 | 27200/40285 batches | ms/batch 1538.96 | loss  0.42 | ppl     1.53 | acc     0.94
+| epoch   3 | 27200/40285 batches | ms/batch  1.27 | loss  0.52 | ppl     1.69 | acc     0.89
+[3/25][27299/40285] Loss_D: 0.0020 (Loss_D_real: -0.0011 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.70 | Classify accuracy: 0.078
+[3/25][27399/40285] Loss_D: 0.0020 (Loss_D_real: -0.0008 Loss_D_fake: 0.0012) Loss_G: 0.0012
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 | 27400/40285 batches | ms/batch 1541.83 | loss  0.42 | ppl     1.52 | acc     0.90
+| epoch   3 | 27400/40285 batches | ms/batch  1.35 | loss  0.51 | ppl     1.66 | acc     0.92
+[3/25][27499/40285] Loss_D: 0.0020 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.039
+[3/25][27599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 27600/40285 batches | ms/batch 1537.70 | loss  0.43 | ppl     1.54 | acc     0.91
+| epoch   3 | 27600/40285 batches | ms/batch  1.21 | loss  0.54 | ppl     1.71 | acc     0.88
+[3/25][27699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.109
+[3/25][27799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.125
+| epoch   3 | 27800/40285 batches | ms/batch 1545.90 | loss  0.42 | ppl     1.52 | acc     0.93
+| epoch   3 | 27800/40285 batches | ms/batch  1.09 | loss  0.52 | ppl     1.68 | acc     0.92
+[3/25][27899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][27999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 28000/40285 batches | ms/batch 1546.26 | loss  0.42 | ppl     1.52 | acc     0.93
+| epoch   3 | 28000/40285 batches | ms/batch  1.07 | loss  0.53 | ppl     1.69 | acc     0.92
+[3/25][28099/40285] Loss_D: 0.0019 (Loss_D_real: -0.0017 Loss_D_fake: 0.0003) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][28199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 28200/40285 batches | ms/batch 1542.60 | loss  0.42 | ppl     1.52 | acc     0.93
+| epoch   3 | 28200/40285 batches | ms/batch  1.05 | loss  0.51 | ppl     1.66 | acc     0.92
+[3/25][28299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][28399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.133
+| epoch   3 | 28400/40285 batches | ms/batch 1545.26 | loss  0.41 | ppl     1.51 | acc     0.92
+| epoch   3 | 28400/40285 batches | ms/batch  1.31 | loss  0.50 | ppl     1.65 | acc     0.89
+[3/25][28499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][28599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.094
+| epoch   3 | 28600/40285 batches | ms/batch 1538.28 | loss  0.40 | ppl     1.50 | acc     0.94
+| epoch   3 | 28600/40285 batches | ms/batch  1.30 | loss  0.50 | ppl     1.65 | acc     0.90
+[3/25][28699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.023
+[3/25][28799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.023
+| epoch   3 | 28800/40285 batches | ms/batch 1547.36 | loss  0.40 | ppl     1.49 | acc     0.91
+| epoch   3 | 28800/40285 batches | ms/batch  1.14 | loss  0.50 | ppl     1.65 | acc     0.90
+[3/25][28899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.039
+[3/25][28999/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 29000/40285 batches | ms/batch 1547.54 | loss  0.41 | ppl     1.50 | acc     0.93
+| epoch   3 | 29000/40285 batches | ms/batch  1.04 | loss  0.49 | ppl     1.64 | acc     0.92
+[3/25][29099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0021 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][29199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   3 | 29200/40285 batches | ms/batch 1541.61 | loss  0.40 | ppl     1.49 | acc     0.92
+| epoch   3 | 29200/40285 batches | ms/batch  1.15 | loss  0.49 | ppl     1.63 | acc     0.89
+[3/25][29299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.062
+[3/25][29399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 29400/40285 batches | ms/batch 1545.89 | loss  0.41 | ppl     1.50 | acc     0.93
+| epoch   3 | 29400/40285 batches | ms/batch  1.09 | loss  0.49 | ppl     1.63 | acc     0.90
+[3/25][29499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][29599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 29600/40285 batches | ms/batch 1547.65 | loss  0.40 | ppl     1.50 | acc     0.94
+| epoch   3 | 29600/40285 batches | ms/batch  1.07 | loss  0.50 | ppl     1.65 | acc     0.90
+[3/25][29699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.148
+[3/25][29799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.70 | Classify accuracy: 0.109
+| epoch   3 | 29800/40285 batches | ms/batch 1547.57 | loss  0.40 | ppl     1.49 | acc     0.93
+| epoch   3 | 29800/40285 batches | ms/batch  1.08 | loss  0.50 | ppl     1.64 | acc     0.91
+[3/25][29899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.117
+[3/25][29999/40285] Loss_D: 0.0020 (Loss_D_real: -0.0011 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 30000/40285 batches | ms/batch 1670.12 | loss  0.40 | ppl     1.50 | acc     0.92
+| epoch   3 | 30000/40285 batches | ms/batch  1.32 | loss  0.49 | ppl     1.64 | acc     0.90
+[3/25][30099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][30199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0010 Loss_D_fake: 0.0011) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.031
+| epoch   3 | 30200/40285 batches | ms/batch 1566.27 | loss  0.40 | ppl     1.50 | acc     0.94
+| epoch   3 | 30200/40285 batches | ms/batch  1.55 | loss  0.49 | ppl     1.63 | acc     0.91
+[3/25][30299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][30399/40285] Loss_D: 0.0020 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 30400/40285 batches | ms/batch 1560.54 | loss  0.41 | ppl     1.50 | acc     0.93
+| epoch   3 | 30400/40285 batches | ms/batch  1.31 | loss  0.49 | ppl     1.63 | acc     0.93
+[3/25][30499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][30599/40285] Loss_D: 0.0023 (Loss_D_real: -0.0015 Loss_D_fake: 0.0009) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 30600/40285 batches | ms/batch 1567.28 | loss  0.40 | ppl     1.50 | acc     0.91
+| epoch   3 | 30600/40285 batches | ms/batch  1.26 | loss  0.49 | ppl     1.63 | acc     0.94
+[3/25][30699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][30799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 30800/40285 batches | ms/batch 1576.91 | loss  0.41 | ppl     1.51 | acc     0.89
+| epoch   3 | 30800/40285 batches | ms/batch  1.11 | loss  0.49 | ppl     1.64 | acc     0.90
+[3/25][30899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][30999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 31000/40285 batches | ms/batch 1557.68 | loss  0.39 | ppl     1.48 | acc     0.92
+| epoch   3 | 31000/40285 batches | ms/batch  1.34 | loss  0.48 | ppl     1.62 | acc     0.92
+[3/25][31099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][31199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   3 | 31200/40285 batches | ms/batch 1561.65 | loss  0.38 | ppl     1.47 | acc     0.94
+| epoch   3 | 31200/40285 batches | ms/batch  1.32 | loss  0.49 | ppl     1.63 | acc     0.92
+[3/25][31299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][31399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0013 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 31400/40285 batches | ms/batch 1560.28 | loss  0.39 | ppl     1.48 | acc     0.94
+| epoch   3 | 31400/40285 batches | ms/batch  1.09 | loss  0.48 | ppl     1.62 | acc     0.92
+[3/25][31499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.133
+[3/25][31599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 31600/40285 batches | ms/batch 1556.82 | loss  0.39 | ppl     1.48 | acc     0.94
+| epoch   3 | 31600/40285 batches | ms/batch  1.09 | loss  0.48 | ppl     1.62 | acc     0.90
+[3/25][31699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.047
+[3/25][31799/40285] Loss_D: 0.0023 (Loss_D_real: -0.0015 Loss_D_fake: 0.0009) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.078
+| epoch   3 | 31800/40285 batches | ms/batch 1544.50 | loss  0.39 | ppl     1.48 | acc     0.93
+| epoch   3 | 31800/40285 batches | ms/batch  1.11 | loss  0.48 | ppl     1.61 | acc     0.91
+[3/25][31899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][31999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 | 32000/40285 batches | ms/batch 1535.71 | loss  0.39 | ppl     1.48 | acc     0.92
+| epoch   3 | 32000/40285 batches | ms/batch  1.09 | loss  0.48 | ppl     1.61 | acc     0.91
+[3/25][32099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.141
+[3/25][32199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 32200/40285 batches | ms/batch 1548.55 | loss  0.38 | ppl     1.46 | acc     0.94
+| epoch   3 | 32200/40285 batches | ms/batch  1.21 | loss  0.47 | ppl     1.60 | acc     0.92
+[3/25][32299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0011 Loss_D_fake: 0.0010) Loss_G: 0.0009
+Classify loss:  0.70 | Classify accuracy: 0.117
+[3/25][32399/40285] Loss_D: 0.0024 (Loss_D_real: -0.0016 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 32400/40285 batches | ms/batch 1543.34 | loss  0.38 | ppl     1.46 | acc     0.94
+| epoch   3 | 32400/40285 batches | ms/batch  1.30 | loss  0.47 | ppl     1.60 | acc     0.91
+[3/25][32499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.172
+[3/25][32599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 32600/40285 batches | ms/batch 1542.48 | loss  0.38 | ppl     1.47 | acc     0.93
+| epoch   3 | 32600/40285 batches | ms/batch  1.27 | loss  0.47 | ppl     1.60 | acc     0.93
+[3/25][32699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][32799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.133
+| epoch   3 | 32800/40285 batches | ms/batch 1535.31 | loss  0.38 | ppl     1.47 | acc     0.91
+| epoch   3 | 32800/40285 batches | ms/batch  1.13 | loss  0.47 | ppl     1.60 | acc     0.93
+[3/25][32899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][32999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0008
+Classify loss:  0.70 | Classify accuracy: 0.125
+| epoch   3 | 33000/40285 batches | ms/batch 1543.41 | loss  0.37 | ppl     1.45 | acc     0.94
+| epoch   3 | 33000/40285 batches | ms/batch  1.11 | loss  0.46 | ppl     1.59 | acc     0.92
+[3/25][33099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.023
+[3/25][33199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0012 Loss_D_fake: 0.0010) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 33200/40285 batches | ms/batch 1535.15 | loss  0.37 | ppl     1.45 | acc     0.93
+| epoch   3 | 33200/40285 batches | ms/batch  1.07 | loss  0.46 | ppl     1.59 | acc     0.92
+[3/25][33299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0012 Loss_D_fake: 0.0010) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][33399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0011 Loss_D_fake: 0.0010) Loss_G: 0.0010
+Classify loss:  0.70 | Classify accuracy: 0.094
+| epoch   3 | 33400/40285 batches | ms/batch 1548.98 | loss  0.38 | ppl     1.46 | acc     0.95
+| epoch   3 | 33400/40285 batches | ms/batch  1.05 | loss  0.46 | ppl     1.59 | acc     0.92
+[3/25][33499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0013 Loss_D_fake: 0.0008) Loss_G: 0.0010
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][33599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0010 Loss_D_fake: 0.0011) Loss_G: 0.0011
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 33600/40285 batches | ms/batch 1546.11 | loss  0.37 | ppl     1.45 | acc     0.90
+| epoch   3 | 33600/40285 batches | ms/batch  1.10 | loss  0.45 | ppl     1.58 | acc     0.92
+[3/25][33699/40285] Loss_D: 0.0023 (Loss_D_real: -0.0020 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.102
+[3/25][33799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 33800/40285 batches | ms/batch 1539.23 | loss  0.38 | ppl     1.46 | acc     0.92
+| epoch   3 | 33800/40285 batches | ms/batch  1.26 | loss  0.47 | ppl     1.60 | acc     0.90
+[3/25][33899/40285] Loss_D: 0.0023 (Loss_D_real: -0.0014 Loss_D_fake: 0.0009) Loss_G: 0.0010
+Classify loss:  0.70 | Classify accuracy: 0.109
+[3/25][33999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.031
+| epoch   3 | 34000/40285 batches | ms/batch 1543.69 | loss  0.37 | ppl     1.45 | acc     0.92
+| epoch   3 | 34000/40285 batches | ms/batch  1.09 | loss  0.46 | ppl     1.59 | acc     0.91
+[3/25][34099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][34199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.117
+| epoch   3 | 34200/40285 batches | ms/batch 1545.42 | loss  0.37 | ppl     1.45 | acc     0.90
+| epoch   3 | 34200/40285 batches | ms/batch  1.43 | loss  0.47 | ppl     1.60 | acc     0.90
+[3/25][34299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.031
+[3/25][34399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   3 | 34400/40285 batches | ms/batch 1550.61 | loss  0.37 | ppl     1.45 | acc     0.93
+| epoch   3 | 34400/40285 batches | ms/batch  1.39 | loss  0.46 | ppl     1.58 | acc     0.91
+[3/25][34499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][34599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   3 | 34600/40285 batches | ms/batch 1553.62 | loss  0.38 | ppl     1.46 | acc     0.94
+| epoch   3 | 34600/40285 batches | ms/batch  1.31 | loss  0.46 | ppl     1.58 | acc     0.92
+[3/25][34699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.102
+[3/25][34799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.016
+| epoch   3 | 34800/40285 batches | ms/batch 1575.75 | loss  0.37 | ppl     1.45 | acc     0.93
+| epoch   3 | 34800/40285 batches | ms/batch  1.33 | loss  0.46 | ppl     1.58 | acc     0.91
+[3/25][34899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][34999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.102
+| epoch   3 | 35000/40285 batches | ms/batch 1680.98 | loss  0.36 | ppl     1.43 | acc     0.95
+| epoch   3 | 35000/40285 batches | ms/batch  1.33 | loss  0.45 | ppl     1.56 | acc     0.93
+[3/25][35099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.102
+[3/25][35199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 35200/40285 batches | ms/batch 1599.12 | loss  0.37 | ppl     1.45 | acc     0.90
+| epoch   3 | 35200/40285 batches | ms/batch  1.18 | loss  0.45 | ppl     1.58 | acc     0.93
+[3/25][35299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][35399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.016
+| epoch   3 | 35400/40285 batches | ms/batch 1593.74 | loss  0.37 | ppl     1.44 | acc     0.94
+| epoch   3 | 35400/40285 batches | ms/batch  1.38 | loss  0.44 | ppl     1.55 | acc     0.93
+[3/25][35499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.086
+[3/25][35599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 35600/40285 batches | ms/batch 1591.24 | loss  0.35 | ppl     1.42 | acc     0.95
+| epoch   3 | 35600/40285 batches | ms/batch  1.30 | loss  0.44 | ppl     1.55 | acc     0.92
+[3/25][35699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.086
+[3/25][35799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 35800/40285 batches | ms/batch 1577.12 | loss  0.36 | ppl     1.44 | acc     0.95
+| epoch   3 | 35800/40285 batches | ms/batch  1.36 | loss  0.44 | ppl     1.56 | acc     0.94
+[3/25][35899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.70 | Classify accuracy: 0.117
+[3/25][35999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 | 36000/40285 batches | ms/batch 1577.75 | loss  0.37 | ppl     1.44 | acc     0.95
+| epoch   3 | 36000/40285 batches | ms/batch  1.07 | loss  0.44 | ppl     1.56 | acc     0.93
+[3/25][36099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.078
+[3/25][36199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   3 | 36200/40285 batches | ms/batch 1596.41 | loss  0.36 | ppl     1.43 | acc     0.95
+| epoch   3 | 36200/40285 batches | ms/batch  1.13 | loss  0.45 | ppl     1.56 | acc     0.91
+[3/25][36299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][36399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 36400/40285 batches | ms/batch 1602.74 | loss  0.36 | ppl     1.43 | acc     0.93
+| epoch   3 | 36400/40285 batches | ms/batch  1.09 | loss  0.44 | ppl     1.56 | acc     0.91
+[3/25][36499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.078
+[3/25][36599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.109
+| epoch   3 | 36600/40285 batches | ms/batch 1603.52 | loss  0.35 | ppl     1.41 | acc     0.92
+| epoch   3 | 36600/40285 batches | ms/batch  1.26 | loss  0.42 | ppl     1.53 | acc     0.93
+[3/25][36699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.062
+[3/25][36799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.70 | Classify accuracy: 0.094
+| epoch   3 | 36800/40285 batches | ms/batch 1609.74 | loss  0.37 | ppl     1.45 | acc     0.93
+| epoch   3 | 36800/40285 batches | ms/batch  1.22 | loss  0.45 | ppl     1.56 | acc     0.93
+[3/25][36899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][36999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.094
+| epoch   3 | 37000/40285 batches | ms/batch 1603.66 | loss  0.37 | ppl     1.44 | acc     0.94
+| epoch   3 | 37000/40285 batches | ms/batch  1.14 | loss  0.44 | ppl     1.56 | acc     0.92
+[3/25][37099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.023
+[3/25][37199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 37200/40285 batches | ms/batch 1600.69 | loss  0.35 | ppl     1.43 | acc     0.93
+| epoch   3 | 37200/40285 batches | ms/batch  1.15 | loss  0.44 | ppl     1.55 | acc     0.94
+[3/25][37299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][37399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 37400/40285 batches | ms/batch 1608.93 | loss  0.35 | ppl     1.42 | acc     0.93
+| epoch   3 | 37400/40285 batches | ms/batch  1.09 | loss  0.42 | ppl     1.52 | acc     0.92
+[3/25][37499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.070
+[3/25][37599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.117
+| epoch   3 | 37600/40285 batches | ms/batch 1614.36 | loss  0.33 | ppl     1.40 | acc     0.94
+| epoch   3 | 37600/40285 batches | ms/batch  1.29 | loss  0.42 | ppl     1.52 | acc     0.92
+[3/25][37699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.102
+[3/25][37799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 37800/40285 batches | ms/batch 1611.13 | loss  0.34 | ppl     1.41 | acc     0.94
+| epoch   3 | 37800/40285 batches | ms/batch  1.17 | loss  0.43 | ppl     1.53 | acc     0.92
+[3/25][37899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][37999/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 38000/40285 batches | ms/batch 1605.89 | loss  0.34 | ppl     1.40 | acc     0.93
+| epoch   3 | 38000/40285 batches | ms/batch  1.40 | loss  0.43 | ppl     1.53 | acc     0.91
+[3/25][38099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.094
+[3/25][38199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.086
+| epoch   3 | 38200/40285 batches | ms/batch 1620.05 | loss  0.33 | ppl     1.40 | acc     0.93
+| epoch   3 | 38200/40285 batches | ms/batch  1.01 | loss  0.42 | ppl     1.52 | acc     0.91
+[3/25][38299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.125
+[3/25][38399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.086
+| epoch   3 | 38400/40285 batches | ms/batch 1615.75 | loss  0.35 | ppl     1.42 | acc     0.94
+| epoch   3 | 38400/40285 batches | ms/batch  1.28 | loss  0.42 | ppl     1.52 | acc     0.92
+[3/25][38499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.047
+[3/25][38599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 38600/40285 batches | ms/batch 1608.54 | loss  0.35 | ppl     1.41 | acc     0.94
+| epoch   3 | 38600/40285 batches | ms/batch  1.38 | loss  0.44 | ppl     1.55 | acc     0.93
+[3/25][38699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.078
+[3/25][38799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.047
+| epoch   3 | 38800/40285 batches | ms/batch 1610.66 | loss  0.34 | ppl     1.40 | acc     0.92
+| epoch   3 | 38800/40285 batches | ms/batch  1.24 | loss  0.42 | ppl     1.53 | acc     0.91
+[3/25][38899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.039
+[3/25][38999/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   3 | 39000/40285 batches | ms/batch 1612.07 | loss  0.35 | ppl     1.42 | acc     0.93
+| epoch   3 | 39000/40285 batches | ms/batch  1.13 | loss  0.43 | ppl     1.54 | acc     0.93
+[3/25][39099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.141
+[3/25][39199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 39200/40285 batches | ms/batch 1610.96 | loss  0.34 | ppl     1.40 | acc     0.95
+| epoch   3 | 39200/40285 batches | ms/batch  1.12 | loss  0.41 | ppl     1.51 | acc     0.93
+[3/25][39299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.055
+[3/25][39399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 39400/40285 batches | ms/batch 1610.25 | loss  0.33 | ppl     1.40 | acc     0.95
+| epoch   3 | 39400/40285 batches | ms/batch  1.36 | loss  0.40 | ppl     1.49 | acc     0.92
+[3/25][39499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.109
+[3/25][39599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.086
+| epoch   3 | 39600/40285 batches | ms/batch 1615.80 | loss  0.34 | ppl     1.40 | acc     0.92
+| epoch   3 | 39600/40285 batches | ms/batch  1.32 | loss  0.41 | ppl     1.51 | acc     0.91
+[3/25][39699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.133
+[3/25][39799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   3 | 39800/40285 batches | ms/batch 1617.74 | loss  0.34 | ppl     1.41 | acc     0.92
+| epoch   3 | 39800/40285 batches | ms/batch  1.25 | loss  0.42 | ppl     1.53 | acc     0.90
+[3/25][39899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.055
+[3/25][39999/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   3 | 40000/40285 batches | ms/batch 1711.01 | loss  0.33 | ppl     1.39 | acc     0.94
+| epoch   3 | 40000/40285 batches | ms/batch  1.58 | loss  0.41 | ppl     1.51 | acc     0.93
+[3/25][40099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.086
+[3/25][40199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+| epoch   3 | 40200/40285 batches | ms/batch 1604.25 | loss  0.33 | ppl     1.40 | acc     0.95
+| epoch   3 | 40200/40285 batches | ms/batch  1.39 | loss  0.41 | ppl     1.51 | acc     0.93
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 63217.91s | test loss  0.47 | test ppl  1.60 | acc 0.916
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 63228.83s | test loss  0.59 | test ppl  1.80 | acc 0.893
+-----------------------------------------------------------------------------------------
+[4/25][99/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.039
+[4/25][199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.164
+| epoch   4 |   200/40285 batches | ms/batch 1620.69 | loss  0.33 | ppl     1.39 | acc     0.93
+| epoch   4 |   200/40285 batches | ms/batch  1.32 | loss  0.40 | ppl     1.50 | acc     0.94
+[4/25][299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.109
+[4/25][399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   4 |   400/40285 batches | ms/batch 1617.89 | loss  0.33 | ppl     1.39 | acc     0.95
+| epoch   4 |   400/40285 batches | ms/batch  1.35 | loss  0.40 | ppl     1.50 | acc     0.93
+[4/25][499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.094
+[4/25][599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   4 |   600/40285 batches | ms/batch 1610.21 | loss  0.33 | ppl     1.39 | acc     0.93
+| epoch   4 |   600/40285 batches | ms/batch  1.40 | loss  0.40 | ppl     1.50 | acc     0.93
+[4/25][699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.086
+[4/25][799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   4 |   800/40285 batches | ms/batch 1596.13 | loss  0.32 | ppl     1.38 | acc     0.93
+| epoch   4 |   800/40285 batches | ms/batch  1.19 | loss  0.40 | ppl     1.50 | acc     0.94
+[4/25][899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.094
+[4/25][999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   4 |  1000/40285 batches | ms/batch 1597.26 | loss  0.31 | ppl     1.37 | acc     0.95
+| epoch   4 |  1000/40285 batches | ms/batch  1.18 | loss  0.40 | ppl     1.48 | acc     0.93
+[4/25][1099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.070
+[4/25][1199/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   4 |  1200/40285 batches | ms/batch 1600.85 | loss  0.32 | ppl     1.37 | acc     0.93
+| epoch   4 |  1200/40285 batches | ms/batch  1.33 | loss  0.40 | ppl     1.49 | acc     0.93
+[4/25][1299/40285] Loss_D: 0.0023 (Loss_D_real: -0.0021 Loss_D_fake: 0.0002) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.078
+[4/25][1399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   4 |  1400/40285 batches | ms/batch 1602.88 | loss  0.31 | ppl     1.37 | acc     0.95
+| epoch   4 |  1400/40285 batches | ms/batch  1.32 | loss  0.39 | ppl     1.47 | acc     0.93
+[4/25][1499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.078
+[4/25][1599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.070
+| epoch   4 |  1600/40285 batches | ms/batch 1599.52 | loss  0.30 | ppl     1.36 | acc     0.94
+| epoch   4 |  1600/40285 batches | ms/batch  1.37 | loss  0.38 | ppl     1.46 | acc     0.96
+[4/25][1699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.008
+[4/25][1799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.008
+| epoch   4 |  1800/40285 batches | ms/batch 1602.77 | loss  0.30 | ppl     1.35 | acc     0.93
+| epoch   4 |  1800/40285 batches | ms/batch  1.42 | loss  0.38 | ppl     1.46 | acc     0.91
+[4/25][1899/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.047
+[4/25][1999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   4 |  2000/40285 batches | ms/batch 1603.86 | loss  0.31 | ppl     1.36 | acc     0.94
+| epoch   4 |  2000/40285 batches | ms/batch  1.49 | loss  0.38 | ppl     1.46 | acc     0.93
+[4/25][2099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.008
+[4/25][2199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   4 |  2200/40285 batches | ms/batch 1597.70 | loss  0.30 | ppl     1.35 | acc     0.96
+| epoch   4 |  2200/40285 batches | ms/batch  1.23 | loss  0.37 | ppl     1.45 | acc     0.93
+[4/25][2299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.055
+[4/25][2399/40285] Loss_D: 0.0020 (Loss_D_real: -0.0019 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   4 |  2400/40285 batches | ms/batch 1602.10 | loss  0.30 | ppl     1.35 | acc     0.95
+| epoch   4 |  2400/40285 batches | ms/batch  1.02 | loss  0.38 | ppl     1.46 | acc     0.93
+[4/25][2499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.047
+[4/25][2599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   4 |  2600/40285 batches | ms/batch 1608.84 | loss  0.31 | ppl     1.36 | acc     0.93
+| epoch   4 |  2600/40285 batches | ms/batch  1.23 | loss  0.37 | ppl     1.45 | acc     0.94
+[4/25][2699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.031
+[4/25][2799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.047
+| epoch   4 |  2800/40285 batches | ms/batch 1605.68 | loss  0.30 | ppl     1.35 | acc     0.97
+| epoch   4 |  2800/40285 batches | ms/batch  1.59 | loss  0.37 | ppl     1.45 | acc     0.94
+[4/25][2899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.047
+[4/25][2999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   4 |  3000/40285 batches | ms/batch 1561.02 | loss  0.29 | ppl     1.34 | acc     0.96
+| epoch   4 |  3000/40285 batches | ms/batch  1.36 | loss  0.37 | ppl     1.45 | acc     0.93
+[4/25][3099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.70 | Classify accuracy: 0.094
+[4/25][3199/40285] Loss_D: 0.0020 (Loss_D_real: -0.0019 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   4 |  3200/40285 batches | ms/batch 1577.40 | loss  0.31 | ppl     1.36 | acc     0.94
+| epoch   4 |  3200/40285 batches | ms/batch  1.31 | loss  0.37 | ppl     1.45 | acc     0.94
+[4/25][3299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.055
+[4/25][3399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   4 |  3400/40285 batches | ms/batch 1574.63 | loss  0.31 | ppl     1.37 | acc     0.94
+| epoch   4 |  3400/40285 batches | ms/batch  1.19 | loss  0.38 | ppl     1.46 | acc     0.94
+[4/25][3499/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+[4/25][3599/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0001) Loss_G: 0.0001
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   4 |  3600/40285 batches | ms/batch 1577.17 | loss  0.30 | ppl     1.36 | acc     0.94
+| epoch   4 |  3600/40285 batches | ms/batch  1.26 | loss  0.38 | ppl     1.46 | acc     0.93
+[4/25][3699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0019 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.023
+[4/25][3799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   4 |  3800/40285 batches | ms/batch 1575.88 | loss  0.32 | ppl     1.38 | acc     0.94
+| epoch   4 |  3800/40285 batches | ms/batch  1.08 | loss  0.39 | ppl     1.47 | acc     0.94
+[4/25][3899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.062
+[4/25][3999/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.094
+| epoch   4 |  4000/40285 batches | ms/batch 1571.30 | loss  0.31 | ppl     1.37 | acc     0.96
+| epoch   4 |  4000/40285 batches | ms/batch  1.13 | loss  0.39 | ppl     1.48 | acc     0.95
+[4/25][4099/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.055
+[4/25][4199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.023
+| epoch   4 |  4200/40285 batches | ms/batch 1565.53 | loss  0.29 | ppl     1.34 | acc     0.94
+| epoch   4 |  4200/40285 batches | ms/batch  1.23 | loss  0.36 | ppl     1.43 | acc     0.92
+[4/25][4299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.039
+[4/25][4399/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   4 |  4400/40285 batches | ms/batch 1579.72 | loss  0.30 | ppl     1.35 | acc     0.95
+| epoch   4 |  4400/40285 batches | ms/batch  1.20 | loss  0.37 | ppl     1.45 | acc     0.94
+[4/25][4499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.062
+[4/25][4599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   4 |  4600/40285 batches | ms/batch 1576.69 | loss  0.29 | ppl     1.34 | acc     0.94
+| epoch   4 |  4600/40285 batches | ms/batch  1.21 | loss  0.37 | ppl     1.45 | acc     0.93
+[4/25][4699/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.047
+[4/25][4799/40285] Loss_D: 0.0022 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   4 |  4800/40285 batches | ms/batch 1566.55 | loss  0.29 | ppl     1.33 | acc     0.95
+| epoch   4 |  4800/40285 batches | ms/batch  1.12 | loss  0.36 | ppl     1.43 | acc     0.94
+[4/25][4899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+[4/25][4999/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   4 |  5000/40285 batches | ms/batch 1673.78 | loss  0.29 | ppl     1.34 | acc     0.94
+| epoch   4 |  5000/40285 batches | ms/batch  1.58 | loss  0.37 | ppl     1.45 | acc     0.94
+[4/25][5099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.047
+[4/25][5199/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   4 |  5200/40285 batches | ms/batch 1570.34 | loss  0.30 | ppl     1.35 | acc     0.94
+| epoch   4 |  5200/40285 batches | ms/batch  1.15 | loss  0.37 | ppl     1.45 | acc     0.95
+[4/25][5299/40285] Loss_D: 0.0022 (Loss_D_real: -0.0019 Loss_D_fake: 0.0002) Loss_G: 0.0002
+Classify loss:  0.71 | Classify accuracy: 0.062
+[4/25][5399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0003) Loss_G: 0.0003
+Classify loss:  0.71 | Classify accuracy: 0.078
+| epoch   4 |  5400/40285 batches | ms/batch 1571.57 | loss  0.31 | ppl     1.36 | acc     0.95
+| epoch   4 |  5400/40285 batches | ms/batch  1.41 | loss  0.38 | ppl     1.46 | acc     0.93
+[4/25][5499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0018 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.062
+[4/25][5599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   4 |  5600/40285 batches | ms/batch 1577.88 | loss  0.30 | ppl     1.35 | acc     0.95
+| epoch   4 |  5600/40285 batches | ms/batch  1.30 | loss  0.37 | ppl     1.45 | acc     0.93
+[4/25][5699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.039
+[4/25][5799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   4 |  5800/40285 batches | ms/batch 1569.19 | loss  0.30 | ppl     1.34 | acc     0.94
+| epoch   4 |  5800/40285 batches | ms/batch  1.55 | loss  0.35 | ppl     1.42 | acc     0.94
+[4/25][5899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.094
+[4/25][5999/40285] Loss_D: 0.0029 (Loss_D_real: -0.0019 Loss_D_fake: 0.0009) Loss_G: 0.0009
+Classify loss:  0.70 | Classify accuracy: 0.078
+| epoch   4 |  6000/40285 batches | ms/batch 1572.89 | loss  0.30 | ppl     1.35 | acc     0.94
+| epoch   4 |  6000/40285 batches | ms/batch  1.17 | loss  0.37 | ppl     1.45 | acc     0.93
+[4/25][6099/40285] Loss_D: 0.0022 (Loss_D_real: -0.0020 Loss_D_fake: 0.0001) Loss_G: -0.0000
+Classify loss:  0.71 | Classify accuracy: 0.102
+[4/25][6199/40285] Loss_D: 0.0020 (Loss_D_real: -0.0016 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   4 |  6200/40285 batches | ms/batch 1575.23 | loss  0.32 | ppl     1.37 | acc     0.95
+| epoch   4 |  6200/40285 batches | ms/batch  1.11 | loss  0.38 | ppl     1.47 | acc     0.95
+[4/25][6299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.71 | Classify accuracy: 0.102
+[4/25][6399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   4 |  6400/40285 batches | ms/batch 1575.35 | loss  0.30 | ppl     1.35 | acc     0.94
+| epoch   4 |  6400/40285 batches | ms/batch  1.29 | loss  0.37 | ppl     1.44 | acc     0.94
+[4/25][6499/40285] Loss_D: 0.0025 (Loss_D_real: -0.0017 Loss_D_fake: 0.0008) Loss_G: 0.0007
+Classify loss:  0.70 | Classify accuracy: 0.195
+[4/25][6599/40285] Loss_D: 0.0021 (Loss_D_real: -0.0016 Loss_D_fake: 0.0005) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.062
+| epoch   4 |  6600/40285 batches | ms/batch 1571.38 | loss  0.29 | ppl     1.34 | acc     0.93
+| epoch   4 |  6600/40285 batches | ms/batch  1.06 | loss  0.36 | ppl     1.43 | acc     0.92
+[4/25][6699/40285] Loss_D: 0.0021 (Loss_D_real: -0.0017 Loss_D_fake: 0.0004) Loss_G: 0.0004
+Classify loss:  0.70 | Classify accuracy: 0.109
+[4/25][6799/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.070
+| epoch   4 |  6800/40285 batches | ms/batch 1579.74 | loss  0.31 | ppl     1.36 | acc     0.95
+| epoch   4 |  6800/40285 batches | ms/batch  1.18 | loss  0.37 | ppl     1.45 | acc     0.95
+[4/25][6899/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.023
+[4/25][6999/40285] Loss_D: 0.0020 (Loss_D_real: -0.0014 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.086
+| epoch   4 |  7000/40285 batches | ms/batch 1581.57 | loss  0.29 | ppl     1.34 | acc     0.95
+| epoch   4 |  7000/40285 batches | ms/batch  1.17 | loss  0.36 | ppl     1.44 | acc     0.93
+[4/25][7099/40285] Loss_D: 0.0026 (Loss_D_real: -0.0019 Loss_D_fake: 0.0007) Loss_G: 0.0008
+Classify loss:  0.71 | Classify accuracy: 0.086
+[4/25][7199/40285] Loss_D: 0.0025 (Loss_D_real: -0.0018 Loss_D_fake: 0.0007) Loss_G: 0.0009
+Classify loss:  0.71 | Classify accuracy: 0.031
+| epoch   4 |  7200/40285 batches | ms/batch 1580.37 | loss  0.30 | ppl     1.35 | acc     0.94
+| epoch   4 |  7200/40285 batches | ms/batch  1.73 | loss  0.37 | ppl     1.44 | acc     0.94
+[4/25][7299/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0005
+Classify loss:  0.71 | Classify accuracy: 0.094
+[4/25][7399/40285] Loss_D: 0.0021 (Loss_D_real: -0.0015 Loss_D_fake: 0.0006) Loss_G: 0.0006
+Classify loss:  0.71 | Classify accuracy: 0.055
+| epoch   4 |  7400/40285 batches | ms/batch 1572.07 | loss  0.29 | ppl     1.34 | acc     0.94
+| epoch   4 |  7400/40285 batches | ms/batch  1.22 | loss  0.36 | ppl     1.44 | acc     0.94
+[4/25][7499/40285] Loss_D: 0.0021 (Loss_D_real: -0.0014 Loss_D_fake: 0.0007) Loss_G: 0.0007
+Classify loss:  0.71 | Classify accuracy: 0.086
