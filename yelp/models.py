@@ -535,7 +535,7 @@ class Seq2Seq(nn.Module):
         return max_indices
 
 
-def load_models(load_path, epoch, twodecoders=False):
+def load_models(load_path, twodecoders=False):
     model_args = json.load(open("{}/args.json".format(load_path), "r"))
     word2idx = json.load(open("{}/vocab.json".format(load_path), "r"))
     idx2word = {v: k for k, v in word2idx.items()}
@@ -561,9 +561,9 @@ def load_models(load_path, epoch, twodecoders=False):
                      layers=model_args['arch_d'])
 
     print('Loading models from'+load_path)
-    ae_path = os.path.join(load_path, "autoencoder_model_{}.pt".format(epoch))
-    gen_path = os.path.join(load_path, "gan_gen_model_{}.pt".format(epoch))
-    disc_path = os.path.join(load_path, "gan_disc_model_{}.pt".format(epoch))
+    ae_path = os.path.join(load_path, "autoencoder_model.pt")
+    gen_path = os.path.join(load_path, "gan_gen_model.pt")
+    disc_path = os.path.join(load_path, "gan_disc_model.pt")
 
     autoencoder.load_state_dict(torch.load(ae_path))
     gan_gen.load_state_dict(torch.load(gen_path))
