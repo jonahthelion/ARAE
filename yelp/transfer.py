@@ -180,7 +180,7 @@ with open(ft_file, 'w') as f:
         f.write("__label__1 "+sent+"\n")
 
 # Perplexity
-model = kenlm.Model(args.lm_path)
+model = kenlm.LanguageModel(args.lm_path)
 ppl = get_ppl(model, transfer1+transfer2)
 print("Perplexity: {}".format(ppl))
 
