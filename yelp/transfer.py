@@ -24,6 +24,8 @@ parser.add_argument('--data_path', type=str, required=True,
                     help='location of the data corpus')
 parser.add_argument('--load_path', type=str, required=True,
                     help='path to load model from')
+parser.add_argument('--epoch', type=int, required=True,
+                    help='epoch')
 parser.add_argument('--load_vocab', type=str, default="",
                     help='path to load vocabulary from')
 
