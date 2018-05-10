@@ -6,7 +6,7 @@ import numpy as np
 import random
 import sys
 import json
-# import kenlm
+import kenlm
 import subprocess
 
 import torch
